@@ -3,13 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "react-spotify-web-playback": "^0.8.2"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "enquirer": "^2.3.6",
+    "image-downloader": "^4.0.3",
+    "slugify": "^1.6.0",
+    "spotify-web-api-node": "^5.0.2",
+    "sync-disk-cache": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
