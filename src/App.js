@@ -4,6 +4,8 @@ import './App.css'
 import AppLoaded from './App-loaded'
 import SpotifyPlayer from 'react-spotify-web-playback'
 
+const open = (uri) => window.location.href=`https://open.spotify.com/album/${uri.split(':album:')[1]}`
+
 const authEndpoint = 'https://accounts.spotify.com/authorize' // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = '2de8edd3e5424748a18d6ff3a8256647'
 const redirectUri = `${window.location.protocol}//${window.location.host}`
@@ -65,6 +67,7 @@ class App extends Component {
           this.state.playing && (
             <SpotifyPlayer
               autoPlay
+              callback={({isUnsupported}) => isUnsupported ? open(this.state.playing) : null}
               token={this.state.token}
               uris={[this.state.playing]}
             />
