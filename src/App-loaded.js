@@ -19,15 +19,10 @@ function App ({ action, playing }) {
             className="background"
             style={{ backgroundImage: `url('${album.photo}')` }}
           />
-          <div className="img" style={{
-            backgroundImage: `url('${album.photo}')`
-          }}>
-            <svg
-              class="lp"
-              dangerouslySetInnerHTML={{
-                __html: '<use xlink:href="#icon-lp-mini" />'
-              }}
-            />
+          <div className="img">
+            <div className="lp" style={{
+              backgroundImage: `url('${album.photo}')`
+            }} />
 
             <img alt={album.title} src={`${album.photo}`} />
             {album.spotify && (

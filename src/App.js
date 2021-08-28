@@ -35,7 +35,7 @@ window.location.hash = ''
 class App extends Component {
   constructor (props) {
     super(props)
-    this.state = { token: '', playing: '' }
+    this.state = { token: '', playing: '', audioPlaying: false }
     this.onPlay = this.onPlay.bind(this)
   }
   componentDidMount () {
@@ -70,7 +70,7 @@ class App extends Component {
           <small>made by <a href="https://cedmax.com">cedmax</a>, vynil style via <a href="https://tympanus.net/Development/RecordPlayer/" target="_blank" rel="noopener noreferrer">tympanus</a></small>
         </header>
 
-        <AppLoaded playing={this.state.playing} action={action} />
+        <AppLoaded playing={this.state.audioPlaying && this.state.playing} action={action} />
 
         <div className="black-box" />
 
@@ -78,7 +78,8 @@ class App extends Component {
           this.state.playing && (
             <SpotifyPlayer
               autoPlay
-              callback={({ isUnsupported, errorType }) => {
+              callback={(state) => {
+                const { isUnsupported, errorType, isPlaying } = state;
                 if (isUnsupported) {
                   open(
                     `https://open.spotify.com/album/${
@@ -89,6 +90,9 @@ class App extends Component {
                 if (errorType === 'authentication_error') {
                   open(actionUrl)
                 }
+                this.setState({
+                  audioPlaying: isPlaying
+                })
               }}
               token={this.state.token}
               uris={[this.state.playing]}

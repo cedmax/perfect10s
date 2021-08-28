@@ -120,10 +120,6 @@ li:not(.playing) .img {
   background-image: none !important;
 }
 
-
-
-
-
 .img img {
   box-shadow: 0 10px 9px rgba(0, 0, 0, .4);
   display: block;
@@ -136,11 +132,6 @@ li:not(.playing) .img {
 
 .playing img {
   left: -1000px;
-  transform:  scale(2.3);
-}
-
-.playing svg {
-  display: none;
 }
 
 @keyframes play {
@@ -152,18 +143,14 @@ li:not(.playing) .img {
   }
 }
 
-.playing .img {
+.lp {
   /**Size**/
   width: 90px;
   height: 90px;
 
-  margin-left: -45px;
-  margin-top: -90px;
-
+  
   /**Animation**/
-  animation: play 7s 2s infinite;
   transform: rotate(0deg);
-  animation-timing-function: linear;
 
   /**Vinyl**/
   box-shadow: 0 0 0 5px #333, 0 0 0 6px #111, 0 0 0 7px #333,
@@ -190,6 +177,23 @@ li:not(.playing) .img {
   border-radius: 50%;
 }
 
+.playing .lp {
+  animation: play 5s 2s infinite;
+  animation-timing-function: linear;
+  left: 55px!important;
+}
+
+.lp {
+  background-size: cover;
+	position: absolute;
+	left: 55px;
+  top: 55px;
+	transition: left 0.5s;
+}
+
+li:hover .lp {
+	left: 100px;
+}
 
 .meta {
   position: absolute;
@@ -277,20 +281,6 @@ header h1 {
   margin: 0
 }
 
-
-
-.lp {
-	position: absolute;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	transform: translate3d(10%, 0, 0);
-	transition: transform 0.3s;
-}
-
-li:hover .lp {
-	transform: translate3d(20%, 0, 0);
-}
 .hidden {
   display: none;
 }
@@ -309,6 +299,10 @@ li:hover .lp {
 	height: 84px;
 	padding: 0;
 	color: #fff;
+}
+
+.playing .play-button {
+  display: none;
 }
 
 li:hover .play-button {
