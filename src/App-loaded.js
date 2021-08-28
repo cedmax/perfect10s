@@ -6,16 +6,45 @@ const sorted = data.sort(({ year: a = 0 }, { year: b = 0 }) => {
   return a - b
 })
 
-function App ({ action }) {
+function App ({ action, playing }) {
   return (
     <ul>
       {sorted.map(album => (
-        <li key={album.slug} data-year={album.year}>
+        <li
+          className={`${playing === album.spotify ? 'playing' : ''}`}
+          key={album.slug}
+          data-year={album.year}
+        >
           <div
             className="background"
             style={{ backgroundImage: `url('${album.photo}')` }}
           />
-          <img alt={album.title} src={`${album.photo}`} />
+          <div className="img" style={{
+            backgroundImage: `url('${album.photo}')`
+          }}>
+            <svg
+              class="lp"
+              dangerouslySetInnerHTML={{
+                __html: '<use xlink:href="#icon-lp-mini" />'
+              }}
+            />
+
+            <img alt={album.title} src={`${album.photo}`} />
+            {album.spotify && (
+              <button
+                className="play-button"
+                onClick={() => action(album.spotify)}
+                target="_blank"
+              >
+                <svg
+                  className="icon"
+                  dangerouslySetInnerHTML={{
+                    __html: '<use xlink:href="#icon-play" />'
+                  }}
+                />
+              </button>
+            )}
+          </div>
           <div className="meta">
             <h1>{album.title}</h1>
             <h2>{album.artists[0]}</h2>
@@ -23,18 +52,6 @@ function App ({ action }) {
               <a href={album.url} target="_blank" rel="noreferrer noopener">
                 review
               </a>
-              {album.spotify &&
-                (typeof action === 'string' ? (
-                  <a href={action}>play</a>
-                ) : (
-                  <button
-                    onClick={() => action(album.spotify)}
-                    target="_blank"
-                    rel="noreferrer noopener"
-                  >
-                    play
-                  </button>
-                ))}
             </span>
           </div>
           <span className="tracks">

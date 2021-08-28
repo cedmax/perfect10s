@@ -4,7 +4,7 @@ import './App.css'
 import AppLoaded from './App-loaded'
 import SpotifyPlayer from 'react-spotify-web-playback'
 
-const open = (uri) => window.location.href=`https://open.spotify.com/album/${uri.split(':album:')[1]}`
+const open = uri => (window.location.href = uri)
 
 const authEndpoint = 'https://accounts.spotify.com/authorize' // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = '2de8edd3e5424748a18d6ff3a8256647'
@@ -16,6 +16,11 @@ const scopes = [
   'user-read-playback-state',
   'user-modify-playback-state'
 ] // Get the hash of the url
+
+const actionUrl = `${authEndpoint}?client_id=${clientId}&redirect_uri=${
+  redirectUri
+}&scope=${scopes.join('%20')}&response_type=token&show_dialog=true`
+
 const hash = window.location.hash
   .substring(1)
   .split('&')
@@ -34,12 +39,17 @@ class App extends Component {
     this.onPlay = this.onPlay.bind(this)
   }
   componentDidMount () {
-    // Set token
-    let _token = hash.access_token
-    if (_token) {
-      // Set token
+    let token = hash.access_token
+
+    if (!token) {
+      token = localStorage.getItem('token')
+    } else {
+      localStorage.setItem('token', token)
+    }
+    
+    if (token) {
       this.setState({
-        token: _token
+        token
       })
     }
   }
@@ -51,23 +61,35 @@ class App extends Component {
   }
 
   render () {
-    const action = !this.state.token ? `${authEndpoint}?client_id=${clientId}&redirect_uri=${redirectUri}&scope=${scopes.join('%20')}&response_type=token&show_dialog=true` : this.onPlay
+    const action = !this.state.token ? () => open(actionUrl) : this.onPlay
 
     return (
       <div className="App">
         <header className="App-header">
           <h1 className="title">Pitchfork's perfect 10s</h1>
+          <small>made by <a href="https://cedmax.com">cedmax</a>, vynil style via <a href="https://tympanus.net/Development/RecordPlayer/" target="_blank" rel="noopener noreferrer">tympanus</a></small>
         </header>
-        
-        <AppLoaded action={action} />
-        
-        <div className="black-box"/>
-        
+
+        <AppLoaded playing={this.state.playing} action={action} />
+
+        <div className="black-box" />
+
         {this.state.token &&
           this.state.playing && (
             <SpotifyPlayer
               autoPlay
-              callback={({isUnsupported}) => isUnsupported ? open(this.state.playing) : null}
+              callback={({ isUnsupported, errorType }) => {
+                if (isUnsupported) {
+                  open(
+                    `https://open.spotify.com/album/${
+                      this.state.playing.split(':album:')[1]
+                    }`
+                  )
+                }
+                if (errorType === 'authentication_error') {
+                  open(actionUrl)
+                }
+              }}
               token={this.state.token}
               uris={[this.state.playing]}
             />

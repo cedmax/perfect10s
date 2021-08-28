@@ -6,6 +6,7 @@ html, body {
 }
 
 ul {
+  text-shadow: 1px 1px 1px #333;
   margin: 75px 0 100px;
   padding: 0;
   list-style: none;
@@ -101,18 +102,94 @@ li:hover .tracks {
   left: 50%;
   top: 50%;
   transform: translate3d(-50%, -50%, 0);
-  filter: brightness(.6) blur(5px)
+  filter: brightness(.7) blur(5px)
 }
 
-ul li img {
+ul li .img {
   width: 200px;
+  height: 200px;
   max-width: 75%;
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate3d(-50%, -75%, 0);
-  box-shadow: 0 10px 9px rgba(0, 0, 0, .4)
+  background-size: cover;
 }
+
+li:not(.playing) .img {
+  background-image: none !important;
+}
+
+
+
+
+
+.img img {
+  box-shadow: 0 10px 9px rgba(0, 0, 0, .4);
+  display: block;
+  position: relative;
+  left: 0px;
+	width: 100%;
+  transition: left 2.5s ease-out;
+	transform: translate3d(0,0,0);
+}
+
+.playing img {
+  left: -1000px;
+  transform:  scale(2.3);
+}
+
+.playing svg {
+  display: none;
+}
+
+@keyframes play {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.playing .img {
+  /**Size**/
+  width: 90px;
+  height: 90px;
+
+  margin-left: -45px;
+  margin-top: -90px;
+
+  /**Animation**/
+  animation: play 7s 2s infinite;
+  transform: rotate(0deg);
+  animation-timing-function: linear;
+
+  /**Vinyl**/
+  box-shadow: 0 0 0 5px #333, 0 0 0 6px #111, 0 0 0 7px #333,
+    0 0 0 8px #111, 0 0 0 9px #333,
+    0 0 0 10px #111, 0 0 0 11px #333,
+    0 0 0 12px #111, 0 0 0 13px #333,
+    0 0 0 14px #111, 0 0 0 15px #333,
+    0 0 0 16px #111, 0 0 0 17px #333,
+    0 0 0 18px #111, 0 0 0 19px #333,
+    0 0 0 20px #111, 0 0 0 21px #333,
+    0 0 0 22px #111, 0 0 0 23px #333,
+    0 0 0 24px #111, 0 0 0 25px #333,
+    0 0 0 26px #111, 0 0 0 27px #333,
+    0 0 0 28px #111, 0 0 0 29px #333,
+    0 0 0 30px #111, 0 0 0 31px #333,
+    0 0 0 32px #111, 0 0 0 33px #333,
+    0 0 0 34px #111, 0 0 0 35px #333,
+    0 0 0 36px #111, 0 0 0 37px #333,
+    0 0 0 38px #111, 0 0 0 39px #333,
+    0 0 0 40px #111, 0 0 0 41px #333,
+    0 0 0 42px #111, 0 0 0 43px #333,
+    0 0 0 44px #222, 0 0 0 45px #333,
+    0 0 0 50px #111;
+  border-radius: 50%;
+}
+
 
 .meta {
   position: absolute;
@@ -140,7 +217,7 @@ span {display: block;}
 
 button, a, a:link, a:visited, a:hover {
   color: white;
-  text-decoration: underline;margin: auto 5px;
+  text-decoration: underline;
   cursor: pointer;
 }
 
@@ -180,7 +257,7 @@ button {
   transform: translate3d(-50%, -50%, 0)
 }
 
-.title {
+header {
   top:0;
   text-align: center;
   position: fixed;
@@ -193,4 +270,69 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+}
+
+header h1 {
+  margin: 0
+}
+
+
+
+.lp {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	transform: translate3d(10%, 0, 0);
+	transition: transform 0.3s;
+}
+
+li:hover .lp {
+	transform: translate3d(20%, 0, 0);
+}
+.hidden {
+  display: none;
+}
+
+.play-button {
+  visibility: hidden;
+	padding: 0;
+	border: 0;
+	background: none;
+	font-size: 5vmin;
+	position: absolute;
+	margin: -42px 0 0 -42px;
+	top: 50%;
+	left: 50%;
+	width: 84px;
+	height: 84px;
+	padding: 0;
+	color: #fff;
+}
+
+li:hover .play-button {
+  visibility: visible;
+}
+
+.play-button:focus {
+	outline: none;
+}
+
+.play-button .icon {
+	transform: scale(0.8);
+  fill: #222;
+	width: 90%;
+	height: 90%;
+	top: 0;
+	left: 0;
+	transition: opacity 0.3s;
+  background: rgba(255, 255, 255, .7);
+  border-radius: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.control-button--active .icon--play {
+	opacity: 0;
 }
