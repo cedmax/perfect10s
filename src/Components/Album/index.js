@@ -17,9 +17,9 @@ const Meta = memo(({album}) => (
 export default ({ album, action, isPlaying }) => {
   const playAction = useCallback(
     () => {
-      action(album.spotify)
+      action({img: album.photo, url: album.spotify})
     },
-    [action, album.spotify]
+    [action, album.photo, album.spotify]
   )
 
   return (
