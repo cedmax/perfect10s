@@ -22,7 +22,7 @@ ul {
   }
 }
 
-li {
+ul > li {
   width: 100%;
   flex-basis: 100%;
   position: relative;
@@ -30,42 +30,40 @@ li {
 }
 
 @media (min-width: 412px) {
-  li {
+  ul > li {
     width: 100%;
     flex-basis: 100%;
   }
 }
 
 @media (min-width: 640px) {
-  li {
+  ul > li {
     width: 50%;
     flex-basis: 50%;
   }
 }
 
 @media (min-width: 960px) {
-  li {
+  ul > li {
     width: 33.3333%;
     flex-basis: 33.3333%;
   }
 }
 
 @media (min-width: 1280px) {
-  li {
+  ul > li {
     width: 25%;
     flex-basis: 25%;
   }
 }
 
-li:after {
+ul > li:after {
   content: "";
   display: block;
   padding-bottom: 150%;
 }
 
-
-
-li:hover::before {
+ul > li:hover::before {
   content: attr(data-year);
   display: block;
   font-size: 200%;
@@ -78,14 +76,28 @@ li:hover::before {
 
 .tracks {
   position: absolute;
-  bottom: .4rem;
-  font-weight: bold;
-  visibility: hidden;
-  right: .6rem;
-  font-size: 200%;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  display: flex;
 }
 
-li:hover .tracks {
+.tracks span {
+  font-weight: bold;
+  margin-bottom: .4rem;
+  margin-right: .6rem;
+  font-size: 200%;
+  visibility: hidden;
+  text-align: right;
+  pointer-events: all;
+  align-self: end;
+width: 100%;
+}
+
+ul > li:hover .tracks span {
   visibility: visible;
 }
 
@@ -105,7 +117,7 @@ li:hover .tracks {
   filter: brightness(.7) blur(5px)
 }
 
-ul li .img {
+ul > li .img {
   width: 200px;
   height: 200px;
   max-width: 75%;
@@ -116,7 +128,7 @@ ul li .img {
   background-size: cover;
 }
 
-li:not(.playing) .img {
+ul > li:not(.playing) .img {
   background-image: none !important;
 }
 
@@ -191,7 +203,7 @@ li:not(.playing) .img {
 	transition: left 0.5s;
 }
 
-li:hover .lp {
+ul > li:hover .lp {
 	left: 100px;
 }
 
@@ -305,7 +317,7 @@ header h1 {
   display: none;
 }
 
-li:hover .play-button {
+ul > li:hover .play-button {
   visibility: visible;
 }
 
@@ -330,3 +342,26 @@ li:hover .play-button {
 .control-button--active .icon--play {
 	opacity: 0;
 }
+
+.tracks ol {
+  pointer-events: all;
+  background: rgba(0, 0, 0, .7);
+  font-size: 15px;
+  margin: 0;
+  padding: 5px 0;
+  width: 100%;
+  box-sizing: border-box;
+  list-style: none;
+  max-height: 100%;
+  overflow: scroll;
+}
+
+.tracks ol li {
+  padding: 10px 20px;
+  border-top: 1px solid #333
+}
+
+.tracks ol li:first-child {
+  border: none
+}
+
