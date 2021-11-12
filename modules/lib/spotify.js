@@ -18,7 +18,7 @@ module.exports = async () => {
       const result = await Promise.all(tracks.map(item => getTrack(item.id)))
 
       const orderedTracks = result.sort(
-        (a, b) => b.body.popularity - a.body.popularity
+        (a, b) => a.body.track_number - b.body.track_number
       )
 
       let year = album.release_date
