@@ -1,8 +1,8 @@
-import React, { useCallback, memo } from 'react'
-import Vinyl from './Vinyl'
-import Tracks from './Tracks';
+import React, { useCallback, memo } from "react";
+import Vinyl from "./Vinyl";
+import Tracks from "./Tracks";
 
-const Meta = memo(({album}) => (
+const Meta = memo(({ album }) => (
   <div className="meta">
     <h1>{album.title}</h1>
     <h2>{album.artists[0]}</h2>
@@ -12,18 +12,15 @@ const Meta = memo(({album}) => (
       </a>
     </span>
   </div>
-))
+));
 
 export default ({ album, action, isPlaying }) => {
-  const playAction = useCallback(
-    () => {
-      action({img: album.photo, url: album.spotify})
-    },
-    [action, album.photo, album.spotify]
-  )
+  const playAction = useCallback(() => {
+    action({ img: album.photo, url: album.spotify });
+  }, [action, album.photo, album.spotify]);
 
   return (
-    <li className={`${isPlaying ? 'playing' : ''}`} data-year={album.year}>
+    <li className={`${isPlaying ? "playing" : ""}`} data-year={album.year}>
       <Vinyl
         img={album.photo}
         title={album.title}
@@ -32,5 +29,5 @@ export default ({ album, action, isPlaying }) => {
       <Meta album={album} />
       <Tracks tracks={album.tracks} />
     </li>
-  )
-}
+  );
+};

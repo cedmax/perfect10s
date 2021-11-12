@@ -1,15 +1,12 @@
-import React, { Fragment, memo } from 'react'
+import React, { Fragment, memo } from "react";
 export default memo(({ img, title, playAction }) => (
   <Fragment>
-    <div
-      className="background"
-      style={{ backgroundImage: `url('${img}')` }}
-    />
+    <div className="background" style={{ backgroundImage: `url('${img}')` }} />
     <div className="img">
       <div
         className="lp"
         style={{
-          backgroundImage: `url('${img}')`
+          backgroundImage: `url('${img}')`,
         }}
       />
 
@@ -19,11 +16,11 @@ export default memo(({ img, title, playAction }) => (
           <svg
             className="icon"
             dangerouslySetInnerHTML={{
-              __html: '<use xlink:href="#icon-play" />'
+              __html: '<use xlink:href="#icon-play" />',
             }}
           />
         </button>
       )}
     </div>
   </Fragment>
-))
+));

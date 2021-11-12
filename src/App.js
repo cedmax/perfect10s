@@ -1,53 +1,53 @@
 /* eslint-disable no-mixed-operators */
-import React, { Component } from 'react'
-import Body from './Components/Body'
-import Header from './Components/Header'
-import Player from './Components/Player'
-import { open, auth, actionUrl } from './helpers'
+import React, { Component } from "react";
+import Body from "./Components/Body";
+import Header from "./Components/Header";
+import Player from "./Components/Player";
+import { open, auth, actionUrl } from "./helpers";
 
-import './App.css'
+import "./App.css";
 
 class App extends Component {
-  constructor (props) {
-    super(props)
-    this.state = { token: '', playing: '', audioPlaying: false }
-    this.onPlay = this.onPlay.bind(this)
-    this.onAudio = this.onAudio.bind(this)
+  constructor(props) {
+    super(props);
+    this.state = { token: "", playing: "", audioPlaying: false };
+    this.onPlay = this.onPlay.bind(this);
+    this.onAudio = this.onAudio.bind(this);
   }
 
-  componentDidMount () {
-    let token = auth().access_token
+  componentDidMount() {
+    let token = auth().access_token;
 
     if (!token) {
-      token = localStorage.getItem('token')
+      token = localStorage.getItem("token");
     } else {
-      localStorage.setItem('token', token)
+      localStorage.setItem("token", token);
     }
 
     if (token) {
       this.setState({
-        token
-      })
+        token,
+      });
     }
   }
 
-  onPlay (uri) {
+  onPlay(uri) {
     if (!this.state.token) {
-      open(actionUrl)
+      open(actionUrl);
     } else {
       this.setState({
-        playing: uri
-      })
+        playing: uri,
+      });
     }
   }
 
-  onAudio (isPlaying) {
+  onAudio(isPlaying) {
     this.setState({
-      audioPlaying: isPlaying
-    })
+      audioPlaying: isPlaying,
+    });
   }
 
-  render () {
+  render() {
     return (
       <div className="App">
         <Header />
@@ -61,7 +61,7 @@ class App extends Component {
           playing={this.state.playing}
         />
       </div>
-    )
+    );
   }
 }
-export default App
+export default App;

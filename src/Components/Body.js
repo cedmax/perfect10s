@@ -1,28 +1,31 @@
-import React, { useState, useCallback } from 'react'
-import Album from './Album'
-import data from '../new-data.json'
+import React, { useState, useCallback } from "react";
+import Album from "./Album";
+import data from "../new-data.json";
 
 const sorted = data.sort(({ year: a = 0 }, { year: b = 0 }) => {
-  return a - b
-})
+  return a - b;
+});
 
-function App ({ action, playing }) {
-  const [background, setBackground] = useState()
-  const onPlay = useCallback(({ img, url }) => {
-    setBackground(img)
-    
-    //action(url)
-  }, [action])
+function App({ action, playing }) {
+  const [background, setBackground] = useState();
+  const onPlay = useCallback(
+    ({ img, url }) => {
+      setBackground(img);
 
-  console.log(background)
+      //action(url)
+    },
+    [action]
+  );
+
+  console.log(background);
 
   return (
     <ul
       style={{
-        '--background': `url('${background}')`
+        "--background": `url('${background}')`,
       }}
     >
-      {sorted.map(album => (
+      {sorted.map((album) => (
         <Album
           action={onPlay}
           isPlaying={playing === album.spotify}
@@ -31,7 +34,7 @@ function App ({ action, playing }) {
         />
       ))}
     </ul>
-  )
+  );
 }
 
-export default App
+export default App;
