@@ -11,8 +11,7 @@ function App({ action, playing }) {
   const onPlay = useCallback(
     ({ img, url }) => {
       setBackground(img);
-
-      //action(url)
+      action(url)
     },
     [action]
   );
