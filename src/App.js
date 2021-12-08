@@ -19,8 +19,12 @@ class App extends Component {
     let token = auth().access_token;
 
     if (!token) {
-      token = localStorage.getItem("token");
+      const now = new Date();
+      const tokenSetTime = new Date(Number(localStorage.getItem("token-set-time") || 0));
+      const isValid = (tokenSetTime - now) < 3.6e+6 // the token should be less than 1hr older
+      token = isValid && localStorage.getItem("token");
     } else {
+      localStorage.setItem("token-set-time", (new Date()).getTime());
       localStorage.setItem("token", token);
     }
 

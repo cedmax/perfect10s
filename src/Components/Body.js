@@ -12,12 +12,11 @@ function App({ action, playing }) {
     ({ img, url }) => {
       setBackground(img);
 
-      //action(url)
+      action(url)
     },
     [action]
   );
 
-  console.log(background);
 
   return (
     <ul
