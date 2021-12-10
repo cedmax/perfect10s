@@ -20,7 +20,7 @@ function App({ action, playing }) {
   return (
     <ul
       style={{
-        "--background": `url('${background}')`,
+        "--background": `url('https://perfect10s.dsgn.it/${background}')`,
       }}
     >
       {sorted.map((album) => (

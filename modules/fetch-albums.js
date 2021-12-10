@@ -66,7 +66,7 @@ const fetchAll = async (startPosition, results) => {
       JSON.stringify(
         data.map(({ photo, ...item }) => ({
           ...item,
-          photo: `/covers/${item.slug}.${photo.split('.').pop()}`
+          photo: `covers/${item.slug}.${photo.split('.').pop()}`
         })),
         null,
         2
