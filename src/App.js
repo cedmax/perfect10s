@@ -60,6 +60,7 @@ class App extends Component {
           action={this.onPlay}
         />
         <Player
+          key={this.state.playing}
           onAudioPlaying={this.onAudio}
           token={this.state.token}
           playing={this.state.playing}

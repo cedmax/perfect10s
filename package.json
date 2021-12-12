@@ -6,13 +6,14 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "react-spotify-web-playback": "^0.8.2"
+    "react-spotify-web-playback": "^0.9.1"
   },
   "devDependencies": {
     "axios": "^0.21.1",
     "dotenv": "^10.0.0",
     "enquirer": "^2.3.6",
     "image-downloader": "^4.0.3",
+    "node-vibrant": "^3.2.1-alpha.1",
     "slugify": "^1.6.0",
     "spotify-web-api-node": "^5.0.2",
     "sync-disk-cache": "^2.1.0"
@@ -28,7 +29,7 @@
       "react-app",
       "react-app/jest"
     ],
-    "rules":{
+    "rules": {
       "import/no-anonymous-default-export": 0
     }
   },

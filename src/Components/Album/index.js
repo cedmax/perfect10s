@@ -16,8 +16,8 @@ const Meta = memo(({ album }) => (
 
 export default ({ album, action, isPlaying }) => {
   const playAction = useCallback(() => {
-    action({ img: album.photo, url: album.spotify });
-  }, [action, album.photo, album.spotify]);
+    action({ palette: album.palette, url: album.spotify });
+  }, [action, album.palette, album.spotify]);
 
   return (
     <li className={`${isPlaying ? "playing" : ""}`} data-year={album.year}>

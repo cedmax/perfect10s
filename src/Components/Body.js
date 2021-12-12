@@ -6,21 +6,30 @@ const sorted = data.sort(({ year: a = 0 }, { year: b = 0 }) => {
   return a - b;
 });
 
+const getColor = (bk, index) => {
+  if (typeof index ==='undefined' || !bk) return `rgb(255, 255, 255)`
+  return `rgb(${bk[index].join()}`
+}
+
 function App({ action, playing }) {
-  const [background, setBackground] = useState();
+  const [bk, setBackground] = useState();
   const onPlay = useCallback(
-    ({ img, url }) => {
-      setBackground(img);
+    ({ palette, url }) => {
+      setBackground(palette);
       action(url)
     },
     [action]
   );
 
-
   return (
     <ul
       style={{
-        "--background": `url('https://perfect10s.dsgn.it/${background}')`,
+        "--bk-internal": getColor(bk, 5),
+        "--bk-middle-inner": getColor(bk, 2),
+        "--bk-middle-outer": getColor(bk, 0),
+        "--bk-middle-external": getColor(bk, 1),
+        "--bk-external": getColor(bk, 4),
+        "--bk-lines": 'black',
       }}
     >
       {sorted.map((album) => (

@@ -1,40 +1,76 @@
 html, body {
   padding: 0;
   margin: 0;
-  background: #000;
   color: #fff;
 }
 
 ul {
   text-shadow: 1px 1px 1px #333;
-  margin: 100px 0;
-  padding: 0;
+  padding: 120px 0 0;
+  margin: 0;
   list-style: none;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  border: 35px solid transparent;
   position: relative;
 }
 
 ul:before {
   content: '';
   position: absolute;
-  background-image: var(--background);
   top: 0;left: 0; right: 0; bottom: 0;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  filter: blur(5px);
+  
+  background: linear-gradient( 45deg, var(--bk-lines), var(--bk-lines) .5%,
+  var(--bk-middle-outer) .5%, var(--bk-middle-outer) 7.6%,
+  var(--bk-lines) 7.6%, var(--bk-lines) 8.642857143%,
+  var(--bk-middle-external) 8.642857143%, var(--bk-middle-external) 15.64285714%,
+  var(--bk-lines) 15.64285714%, var(--bk-lines) 16.88571429%,
+  var(--bk-external) 16.88571429%, var(--bk-external) 23.84285714%,
+  var(--bk-lines) 23.84285714%, var(--bk-lines) 25%,
+  transparent 25%),
+  linear-gradient(-45deg, var(--bk-lines), var(--bk-lines) .5%,
+    var(--bk-middle-outer) .5%, var(--bk-middle-outer) 7.6%,
+    var(--bk-lines) 7.6%, var(--bk-lines) 8.642857143%,
+    var(--bk-middle-external) 8.642857143%, var(--bk-middle-external) 15.64285714%,
+    var(--bk-lines) 15.64285714%, var(--bk-lines) 16.88571429%,
+    var(--bk-external) 16.88571429%, var(--bk-external) 23.84285714%,
+    var(--bk-lines) 23.84285714%, var(--bk-lines) 25%,
+    transparent 25%),
+  linear-gradient( 45deg, transparent 73.857142860%, var(--bk-lines) 73.857142860%, var(--bk-lines) 75%, transparent  75%),
+  linear-gradient(-45deg, transparent 73.857142860%, var(--bk-lines) 73.857142860%, var(--bk-lines) 75%, transparent  75%),
+  linear-gradient( 45deg, transparent 66.857142860%, var(--bk-external) 66.857142860%, var(--bk-external)  73.857142860%, transparent  73.857142860%),
+  linear-gradient(-45deg, transparent 66.857142860%, var(--bk-external) 66.857142860%, var(--bk-external)  73.857142860%, transparent  73.857142860%),
+  linear-gradient( 45deg, transparent 65.714285710%, var(--bk-lines) 65.714285710%, var(--bk-lines) 66.857142860%, transparent  66.857142860%),
+  linear-gradient(-45deg, transparent 65.714285710%, var(--bk-lines) 65.714285710%, var(--bk-lines) 66.857142860%, transparent  66.857142860%),
+  linear-gradient( 45deg, transparent 58.714285710%, var(--bk-middle-external) 58.714285710%, var(--bk-middle-external)  65.714285710%, transparent  65.714285710%),
+  linear-gradient(-45deg, transparent 58.714285710%, var(--bk-middle-external) 58.714285710%, var(--bk-middle-external)  65.714285710%, transparent  65.714285710%),
+  linear-gradient( 45deg, transparent 57.571428570%, var(--bk-lines) 57.571428570%, var(--bk-lines) 58.714285710%, transparent  58.714285710%),
+  linear-gradient(-45deg, transparent 57.571428570%, var(--bk-lines) 57.571428570%, var(--bk-lines) 58.714285710%, transparent  58.714285710%),
+  linear-gradient( 45deg, transparent 50.571428570%, var(--bk-middle-outer) 50.571428570%, var(--bk-middle-outer)  57.571428570%, transparent  57.571428570%),
+  linear-gradient(-45deg, transparent 50.571428570%, var(--bk-middle-outer) 50.571428570%, var(--bk-middle-outer)  57.571428570%, transparent  57.571428570%),
+  linear-gradient( 45deg, transparent 49.428571430%, var(--bk-lines) 49.428571430%, var(--bk-lines) 50.571428570%, transparent  50.571428570%),
+  linear-gradient(-45deg, transparent 49.428571430%, var(--bk-lines) 49.428571430%, var(--bk-lines) 50.571428570%, transparent  50.571428570%),
+  linear-gradient( 45deg, transparent 42.428571430%, var(--bk-middle-inner) 42.428571430%, var(--bk-middle-inner)  49.428571430%, transparent  49.428571430%),
+  linear-gradient(-45deg, transparent 42.428571430%, var(--bk-middle-inner) 42.428571430%, var(--bk-middle-inner)  49.428571430%, transparent  49.428571430%),
+  linear-gradient( 45deg, transparent 41.285714290%, var(--bk-lines) 41.285714290%, var(--bk-lines) 42.428571430%, transparent  42.428571430%),
+  linear-gradient(-45deg, transparent 41.285714290%, var(--bk-lines) 41.285714290%, var(--bk-lines) 42.428571430%, transparent  42.428571430%),
+  linear-gradient( 45deg, transparent 34.285714290%, var(--bk-internal) 34.285714290%, var(--bk-internal)  41.285714290%, transparent  41.285714290%),
+  linear-gradient(-45deg, transparent 34.285714290%, var(--bk-internal) 34.285714290%, var(--bk-internal)  41.285714290%, transparent  41.285714290%),
+  linear-gradient( 45deg, transparent 33.142857143%, var(--bk-lines) 33.142857143%, var(--bk-lines) 34.285714290%, transparent  34.285714290%),
+  linear-gradient(-45deg, transparent 33.142857143%, var(--bk-lines) 33.142857143%, var(--bk-lines) 34.285714290%, transparent  34.285714290%);
+  background-size: 100px 100px;
+  background-position: 0 0;
+  filter: blur(1px);
+  z-index: -2;
+}
+ul:after {
+  content: '';
+  position: absolute;
+  top: 0;left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,.3);
+  z-index: -1;
 }
 
-
-@media (min-width: 1024px) {
-  ul {
-    margin-bottom: 50px
-  }
-}
 
 ul > li {
   box-sizing: border-box;
@@ -44,7 +80,6 @@ ul > li {
   overflow: hidden;
   margin: 35px;
   box-shadow: 0 10px 9px rgba(0, 0, 0, .4);
-
 }
 
 @media (min-width: 412px) {
@@ -112,7 +147,8 @@ ul > li:hover::before {
   text-align: right;
   pointer-events: all;
   align-self: end;
-width: 100%;
+  margin-left: auto;
+  cursor: pointer;
 }
 
 ul > li:hover .tracks span {
@@ -296,19 +332,19 @@ header {
   text-align: center;
   position: fixed;
   z-index: 1000;
-  background-color: #000;
+  background: linear-gradient(to top,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 80%) 60%);
   margin: 0;
   width: 100%;
-  height: 100px;
+  height: 180px;
   box-sizing: border-box;
   display: flex;
-  justify-content: center;
+  justify-content: top;
   align-items: center;
   flex-direction: column;
 }
 
 header h1 {
-  margin: 0
+  margin: 20px 0 0
 }
 
 .hidden {
