@@ -80,7 +80,9 @@ ul > li {
   overflow: hidden;
   margin: 35px;
   box-shadow: 0 10px 9px rgba(0, 0, 0, .4);
+  transition: flex-basis 1s ease-in-out;
 }
+
 
 @media (min-width: 412px) {
   ul > li {
@@ -300,7 +302,7 @@ button {
 .PlayerRSWP {
   position: fixed;
   bottom: 0;
-  z-index: 100;
+  z-index: 10000;
 }
 
 .black-box {
@@ -429,4 +431,21 @@ ul > li:hover .play-button {
   background-repeat: no-repeat;
   background-position: center;
   opacity: .8;
+}
+
+.playing::after {
+  padding-bottom: 40%
+}
+
+.numb {
+  width: 20px;
+  display: inline-block;
+  margin-right: 3px;
+}
+
+.numb svg {
+  max-width: 100%;
+  vertical-align: middle;
+  margin-left: -4px;
+  margin-top: -2px;
 }

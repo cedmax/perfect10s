@@ -57,6 +57,7 @@ class App extends Component {
         <Header />
         <Body
           playing={this.state.audioPlaying && this.state.playing}
+          currentSong={this.state.audioPlaying}
           action={this.onPlay}
         />
         <Player

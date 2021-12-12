@@ -10,7 +10,7 @@ export default ({ token, playing, onAudioPlaying }) => (
       <SpotifyPlayer
         autoPlay
         callback={(state) => {
-          const { isUnsupported, errorType, isPlaying } = state;
+          const { isUnsupported, errorType } = state;
           if (isUnsupported) {
             open(
               `https://open.spotify.com/album/${playing.split(":album:")[1]}`
@@ -19,7 +19,7 @@ export default ({ token, playing, onAudioPlaying }) => (
           if (errorType === "authentication_error") {
             open(actionUrl);
           }
-          onAudioPlaying(isPlaying);
+          onAudioPlaying(state.track.id);
         }}
         token={token}
         uris={[playing]}

@@ -14,7 +14,7 @@ const Meta = memo(({ album }) => (
   </div>
 ));
 
-export default ({ album, action, isPlaying }) => {
+export default ({ album, action, isPlaying, currentSong }) => {
   const playAction = useCallback(() => {
     action({ palette: album.palette, url: album.spotify });
   }, [action, album.palette, album.spotify]);
@@ -27,7 +27,7 @@ export default ({ album, action, isPlaying }) => {
         playAction={album.spotify ? playAction : null}
       />
       <Meta album={album} />
-      <Tracks tracks={album.tracks} />
+      <Tracks currentSong={currentSong} tracks={album.tracks} />
     </li>
   );
 };

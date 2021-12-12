@@ -11,7 +11,7 @@ const getColor = (bk, index) => {
   return `rgb(${bk[index].join()}`
 }
 
-function App({ action, playing }) {
+function App({ action, playing, currentSong }) {
   const [bk, setBackground] = useState();
   const onPlay = useCallback(
     ({ palette, url }) => {
@@ -34,6 +34,7 @@ function App({ action, playing }) {
     >
       {sorted.map((album) => (
         <Album
+          currentSong={currentSong}
           action={onPlay}
           isPlaying={playing === album.spotify}
           key={album.slug}
