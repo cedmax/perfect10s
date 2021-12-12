@@ -3,20 +3,20 @@ import Album from "./Album";
 import data from "../new-data.json";
 
 const sorted = data.sort(({ year: a = 0 }, { year: b = 0 }) => {
-  return a - b;
+  return b - a;
 });
 
 const getColor = (bk, index) => {
-  if (typeof index ==='undefined' || !bk) return `rgb(255, 255, 255)`
-  return `rgb(${bk[index].join()}`
-}
+  if (typeof index === "undefined" || !bk) return `rgb(255, 255, 255)`;
+  return `rgb(${bk[index].join()}`;
+};
 
 function App({ action, playing, currentSong }) {
   const [bk, setBackground] = useState();
   const onPlay = useCallback(
     ({ palette, url }) => {
       setBackground(palette);
-      action(url)
+      action(url);
     },
     [action]
   );
@@ -29,7 +29,7 @@ function App({ action, playing, currentSong }) {
         "--bk-middle-outer": getColor(bk, 0),
         "--bk-middle-external": getColor(bk, 1),
         "--bk-external": getColor(bk, 4),
-        "--bk-lines": 'black',
+        "--bk-lines": "black",
       }}
     >
       {sorted.map((album) => (

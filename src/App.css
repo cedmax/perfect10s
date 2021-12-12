@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   padding: 0;
   margin: 0;
   color: #fff;
@@ -16,61 +17,218 @@ ul {
 }
 
 ul:before {
-  content: '';
+  content: "";
   position: absolute;
-  top: 0;left: 0; right: 0; bottom: 0;
-  
-  background: linear-gradient( 45deg, var(--bk-lines), var(--bk-lines) .5%,
-  var(--bk-middle-outer) .5%, var(--bk-middle-outer) 7.6%,
-  var(--bk-lines) 7.6%, var(--bk-lines) 8.642857143%,
-  var(--bk-middle-external) 8.642857143%, var(--bk-middle-external) 15.64285714%,
-  var(--bk-lines) 15.64285714%, var(--bk-lines) 16.88571429%,
-  var(--bk-external) 16.88571429%, var(--bk-external) 23.84285714%,
-  var(--bk-lines) 23.84285714%, var(--bk-lines) 25%,
-  transparent 25%),
-  linear-gradient(-45deg, var(--bk-lines), var(--bk-lines) .5%,
-    var(--bk-middle-outer) .5%, var(--bk-middle-outer) 7.6%,
-    var(--bk-lines) 7.6%, var(--bk-lines) 8.642857143%,
-    var(--bk-middle-external) 8.642857143%, var(--bk-middle-external) 15.64285714%,
-    var(--bk-lines) 15.64285714%, var(--bk-lines) 16.88571429%,
-    var(--bk-external) 16.88571429%, var(--bk-external) 23.84285714%,
-    var(--bk-lines) 23.84285714%, var(--bk-lines) 25%,
-    transparent 25%),
-  linear-gradient( 45deg, transparent 73.857142860%, var(--bk-lines) 73.857142860%, var(--bk-lines) 75%, transparent  75%),
-  linear-gradient(-45deg, transparent 73.857142860%, var(--bk-lines) 73.857142860%, var(--bk-lines) 75%, transparent  75%),
-  linear-gradient( 45deg, transparent 66.857142860%, var(--bk-external) 66.857142860%, var(--bk-external)  73.857142860%, transparent  73.857142860%),
-  linear-gradient(-45deg, transparent 66.857142860%, var(--bk-external) 66.857142860%, var(--bk-external)  73.857142860%, transparent  73.857142860%),
-  linear-gradient( 45deg, transparent 65.714285710%, var(--bk-lines) 65.714285710%, var(--bk-lines) 66.857142860%, transparent  66.857142860%),
-  linear-gradient(-45deg, transparent 65.714285710%, var(--bk-lines) 65.714285710%, var(--bk-lines) 66.857142860%, transparent  66.857142860%),
-  linear-gradient( 45deg, transparent 58.714285710%, var(--bk-middle-external) 58.714285710%, var(--bk-middle-external)  65.714285710%, transparent  65.714285710%),
-  linear-gradient(-45deg, transparent 58.714285710%, var(--bk-middle-external) 58.714285710%, var(--bk-middle-external)  65.714285710%, transparent  65.714285710%),
-  linear-gradient( 45deg, transparent 57.571428570%, var(--bk-lines) 57.571428570%, var(--bk-lines) 58.714285710%, transparent  58.714285710%),
-  linear-gradient(-45deg, transparent 57.571428570%, var(--bk-lines) 57.571428570%, var(--bk-lines) 58.714285710%, transparent  58.714285710%),
-  linear-gradient( 45deg, transparent 50.571428570%, var(--bk-middle-outer) 50.571428570%, var(--bk-middle-outer)  57.571428570%, transparent  57.571428570%),
-  linear-gradient(-45deg, transparent 50.571428570%, var(--bk-middle-outer) 50.571428570%, var(--bk-middle-outer)  57.571428570%, transparent  57.571428570%),
-  linear-gradient( 45deg, transparent 49.428571430%, var(--bk-lines) 49.428571430%, var(--bk-lines) 50.571428570%, transparent  50.571428570%),
-  linear-gradient(-45deg, transparent 49.428571430%, var(--bk-lines) 49.428571430%, var(--bk-lines) 50.571428570%, transparent  50.571428570%),
-  linear-gradient( 45deg, transparent 42.428571430%, var(--bk-middle-inner) 42.428571430%, var(--bk-middle-inner)  49.428571430%, transparent  49.428571430%),
-  linear-gradient(-45deg, transparent 42.428571430%, var(--bk-middle-inner) 42.428571430%, var(--bk-middle-inner)  49.428571430%, transparent  49.428571430%),
-  linear-gradient( 45deg, transparent 41.285714290%, var(--bk-lines) 41.285714290%, var(--bk-lines) 42.428571430%, transparent  42.428571430%),
-  linear-gradient(-45deg, transparent 41.285714290%, var(--bk-lines) 41.285714290%, var(--bk-lines) 42.428571430%, transparent  42.428571430%),
-  linear-gradient( 45deg, transparent 34.285714290%, var(--bk-internal) 34.285714290%, var(--bk-internal)  41.285714290%, transparent  41.285714290%),
-  linear-gradient(-45deg, transparent 34.285714290%, var(--bk-internal) 34.285714290%, var(--bk-internal)  41.285714290%, transparent  41.285714290%),
-  linear-gradient( 45deg, transparent 33.142857143%, var(--bk-lines) 33.142857143%, var(--bk-lines) 34.285714290%, transparent  34.285714290%),
-  linear-gradient(-45deg, transparent 33.142857143%, var(--bk-lines) 33.142857143%, var(--bk-lines) 34.285714290%, transparent  34.285714290%);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background: linear-gradient(
+      45deg,
+      var(--bk-lines),
+      var(--bk-lines) 0.5%,
+      var(--bk-middle-outer) 0.5%,
+      var(--bk-middle-outer) 7.6%,
+      var(--bk-lines) 7.6%,
+      var(--bk-lines) 8.642857143%,
+      var(--bk-middle-external) 8.642857143%,
+      var(--bk-middle-external) 15.64285714%,
+      var(--bk-lines) 15.64285714%,
+      var(--bk-lines) 16.88571429%,
+      var(--bk-external) 16.88571429%,
+      var(--bk-external) 23.84285714%,
+      var(--bk-lines) 23.84285714%,
+      var(--bk-lines) 25%,
+      transparent 25%
+    ),
+    linear-gradient(
+      -45deg,
+      var(--bk-lines),
+      var(--bk-lines) 0.5%,
+      var(--bk-middle-outer) 0.5%,
+      var(--bk-middle-outer) 7.6%,
+      var(--bk-lines) 7.6%,
+      var(--bk-lines) 8.642857143%,
+      var(--bk-middle-external) 8.642857143%,
+      var(--bk-middle-external) 15.64285714%,
+      var(--bk-lines) 15.64285714%,
+      var(--bk-lines) 16.88571429%,
+      var(--bk-external) 16.88571429%,
+      var(--bk-external) 23.84285714%,
+      var(--bk-lines) 23.84285714%,
+      var(--bk-lines) 25%,
+      transparent 25%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 73.85714286%,
+      var(--bk-lines) 73.85714286%,
+      var(--bk-lines) 75%,
+      transparent 75%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 73.85714286%,
+      var(--bk-lines) 73.85714286%,
+      var(--bk-lines) 75%,
+      transparent 75%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 66.85714286%,
+      var(--bk-external) 66.85714286%,
+      var(--bk-external) 73.85714286%,
+      transparent 73.85714286%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 66.85714286%,
+      var(--bk-external) 66.85714286%,
+      var(--bk-external) 73.85714286%,
+      transparent 73.85714286%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 65.71428571%,
+      var(--bk-lines) 65.71428571%,
+      var(--bk-lines) 66.85714286%,
+      transparent 66.85714286%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 65.71428571%,
+      var(--bk-lines) 65.71428571%,
+      var(--bk-lines) 66.85714286%,
+      transparent 66.85714286%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 58.71428571%,
+      var(--bk-middle-external) 58.71428571%,
+      var(--bk-middle-external) 65.71428571%,
+      transparent 65.71428571%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 58.71428571%,
+      var(--bk-middle-external) 58.71428571%,
+      var(--bk-middle-external) 65.71428571%,
+      transparent 65.71428571%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 57.57142857%,
+      var(--bk-lines) 57.57142857%,
+      var(--bk-lines) 58.71428571%,
+      transparent 58.71428571%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 57.57142857%,
+      var(--bk-lines) 57.57142857%,
+      var(--bk-lines) 58.71428571%,
+      transparent 58.71428571%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 50.57142857%,
+      var(--bk-middle-outer) 50.57142857%,
+      var(--bk-middle-outer) 57.57142857%,
+      transparent 57.57142857%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 50.57142857%,
+      var(--bk-middle-outer) 50.57142857%,
+      var(--bk-middle-outer) 57.57142857%,
+      transparent 57.57142857%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 49.42857143%,
+      var(--bk-lines) 49.42857143%,
+      var(--bk-lines) 50.57142857%,
+      transparent 50.57142857%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 49.42857143%,
+      var(--bk-lines) 49.42857143%,
+      var(--bk-lines) 50.57142857%,
+      transparent 50.57142857%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 42.42857143%,
+      var(--bk-middle-inner) 42.42857143%,
+      var(--bk-middle-inner) 49.42857143%,
+      transparent 49.42857143%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 42.42857143%,
+      var(--bk-middle-inner) 42.42857143%,
+      var(--bk-middle-inner) 49.42857143%,
+      transparent 49.42857143%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 41.28571429%,
+      var(--bk-lines) 41.28571429%,
+      var(--bk-lines) 42.42857143%,
+      transparent 42.42857143%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 41.28571429%,
+      var(--bk-lines) 41.28571429%,
+      var(--bk-lines) 42.42857143%,
+      transparent 42.42857143%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 34.28571429%,
+      var(--bk-internal) 34.28571429%,
+      var(--bk-internal) 41.28571429%,
+      transparent 41.28571429%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 34.28571429%,
+      var(--bk-internal) 34.28571429%,
+      var(--bk-internal) 41.28571429%,
+      transparent 41.28571429%
+    ),
+    linear-gradient(
+      45deg,
+      transparent 33.142857143%,
+      var(--bk-lines) 33.142857143%,
+      var(--bk-lines) 34.28571429%,
+      transparent 34.28571429%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 33.142857143%,
+      var(--bk-lines) 33.142857143%,
+      var(--bk-lines) 34.28571429%,
+      transparent 34.28571429%
+    );
   background-size: 100px 100px;
   background-position: 0 0;
   filter: blur(1px);
   z-index: -2;
 }
 ul:after {
-  content: '';
+  content: "";
   position: absolute;
-  top: 0;left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,.3);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
   z-index: -1;
 }
-
 
 ul > li {
   box-sizing: border-box;
@@ -79,10 +237,9 @@ ul > li {
   position: relative;
   overflow: hidden;
   margin: 35px;
-  box-shadow: 0 10px 9px rgba(0, 0, 0, .4);
+  box-shadow: 0 10px 9px rgba(0, 0, 0, 0.4);
   transition: flex-basis 1s ease-in-out;
 }
-
 
 @media (min-width: 412px) {
   ul > li {
@@ -124,9 +281,9 @@ ul > li:not(.disabled):hover::before {
   font-size: 200%;
   font-weight: bold;
   position: absolute;
-  bottom: .4rem;
-  left: .6rem;
-  z-index: 1
+  bottom: 0.4rem;
+  left: 0.6rem;
+  z-index: 1;
 }
 
 .tracks {
@@ -142,8 +299,8 @@ ul > li:not(.disabled):hover::before {
 
 .tracks span {
   font-weight: bold;
-  margin-bottom: .4rem;
-  margin-right: .6rem;
+  margin-bottom: 0.4rem;
+  margin-right: 0.6rem;
   font-size: 200%;
   visibility: hidden;
   text-align: right;
@@ -158,7 +315,7 @@ ul > li:not(.disabled):hover .tracks span {
 }
 
 .tracks small {
-  font-size: 40%
+  font-size: 40%;
 }
 
 .background {
@@ -170,7 +327,7 @@ ul > li:not(.disabled):hover .tracks span {
   left: 50%;
   top: 50%;
   transform: translate3d(-50%, -50%, 0);
-  filter: brightness(.7) blur(5px)
+  filter: brightness(0.7) blur(5px);
 }
 
 ul > li .img {
@@ -189,13 +346,13 @@ ul > li:not(.playing) .img {
 }
 
 .img img {
-  box-shadow: 0 10px 9px rgba(0, 0, 0, .4);
+  box-shadow: 0 10px 9px rgba(0, 0, 0, 0.4);
   display: block;
   position: relative;
   left: 0px;
-	width: 100%;
+  width: 100%;
   transition: left 2.5s ease-out;
-	transform: translate3d(0,0,0);
+  transform: translate3d(0, 0, 0);
 }
 
 .playing img {
@@ -216,51 +373,40 @@ ul > li:not(.playing) .img {
   width: 90px;
   height: 90px;
 
-  
   /**Animation**/
   transform: rotate(0deg);
 
   /**Vinyl**/
-  box-shadow: 0 0 0 5px #333, 0 0 0 6px #111, 0 0 0 7px #333,
-    0 0 0 8px #111, 0 0 0 9px #333,
-    0 0 0 10px #111, 0 0 0 11px #333,
-    0 0 0 12px #111, 0 0 0 13px #333,
-    0 0 0 14px #111, 0 0 0 15px #333,
-    0 0 0 16px #111, 0 0 0 17px #333,
-    0 0 0 18px #111, 0 0 0 19px #333,
-    0 0 0 20px #111, 0 0 0 21px #333,
-    0 0 0 22px #111, 0 0 0 23px #333,
-    0 0 0 24px #111, 0 0 0 25px #333,
-    0 0 0 26px #111, 0 0 0 27px #333,
-    0 0 0 28px #111, 0 0 0 29px #333,
-    0 0 0 30px #111, 0 0 0 31px #333,
-    0 0 0 32px #111, 0 0 0 33px #333,
-    0 0 0 34px #111, 0 0 0 35px #333,
-    0 0 0 36px #111, 0 0 0 37px #333,
-    0 0 0 38px #111, 0 0 0 39px #333,
-    0 0 0 40px #111, 0 0 0 41px #333,
-    0 0 0 42px #111, 0 0 0 43px #333,
-    0 0 0 44px #222, 0 0 0 45px #333,
-    0 0 0 50px #111;
+  box-shadow: 0 0 0 5px #333, 0 0 0 6px #111, 0 0 0 7px #333, 0 0 0 8px #111,
+    0 0 0 9px #333, 0 0 0 10px #111, 0 0 0 11px #333, 0 0 0 12px #111,
+    0 0 0 13px #333, 0 0 0 14px #111, 0 0 0 15px #333, 0 0 0 16px #111,
+    0 0 0 17px #333, 0 0 0 18px #111, 0 0 0 19px #333, 0 0 0 20px #111,
+    0 0 0 21px #333, 0 0 0 22px #111, 0 0 0 23px #333, 0 0 0 24px #111,
+    0 0 0 25px #333, 0 0 0 26px #111, 0 0 0 27px #333, 0 0 0 28px #111,
+    0 0 0 29px #333, 0 0 0 30px #111, 0 0 0 31px #333, 0 0 0 32px #111,
+    0 0 0 33px #333, 0 0 0 34px #111, 0 0 0 35px #333, 0 0 0 36px #111,
+    0 0 0 37px #333, 0 0 0 38px #111, 0 0 0 39px #333, 0 0 0 40px #111,
+    0 0 0 41px #333, 0 0 0 42px #111, 0 0 0 43px #333, 0 0 0 44px #222,
+    0 0 0 45px #333, 0 0 0 50px #111;
   border-radius: 50%;
 }
 
 .playing .lp {
   animation: play 5s 2s infinite;
   animation-timing-function: linear;
-  left: 55px!important;
+  left: 55px !important;
 }
 
 .lp {
   background-size: cover;
-	position: absolute;
-	left: 55px;
+  position: absolute;
+  left: 55px;
   top: 55px;
-	transition: left 0.5s;
+  transition: left 0.5s;
 }
 
 ul > li:not(.disabled):hover .lp {
-	left: 100px;
+  left: 100px;
 }
 
 .meta {
@@ -281,13 +427,19 @@ ul > li:not(.disabled):hover .lp {
   font-size: 1rem;
 }
 
-.meta h1+h2 {
+.meta h1 + h2 {
   margin-top: -10px;
 }
 
-span {display: block;}
+span {
+  display: block;
+}
 
-button, a, a:link, a:visited, a:hover {
+button,
+a,
+a:link,
+a:visited,
+a:hover {
   color: white;
   text-decoration: underline;
   cursor: pointer;
@@ -296,7 +448,7 @@ button, a, a:link, a:visited, a:hover {
 button {
   background: none;
   border: 0;
-  font-size: 100%
+  font-size: 100%;
 }
 
 .PlayerRSWP {
@@ -307,7 +459,11 @@ button {
 
 .black-box {
   height: 150px;
-  background: linear-gradient(to bottom,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 80%) 100%);
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0,
+    rgba(0, 0, 0, 80%) 100%
+  );
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -317,7 +473,7 @@ button {
 
 @media (min-width: 1024px) {
   .black-box {
-    height: 75px
+    height: 75px;
   }
 }
 
@@ -326,15 +482,19 @@ button {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate3d(-50%, -50%, 0)
+  transform: translate3d(-50%, -50%, 0);
 }
 
 header {
-  top:0;
+  top: 0;
   text-align: center;
   position: fixed;
   z-index: 1000;
-  background: linear-gradient(to top,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 80%) 60%);
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0) 0,
+    rgba(0, 0, 0, 80%) 60%
+  );
   margin: 0;
   width: 100%;
   height: 200px;
@@ -346,7 +506,7 @@ header {
 }
 
 header h1 {
-  margin: 20px 0 0
+  margin: 20px 0 0;
 }
 
 .hidden {
@@ -355,18 +515,18 @@ header h1 {
 
 .play-button {
   visibility: hidden;
-	padding: 0;
-	border: 0;
-	background: none;
-	font-size: 5vmin;
-	position: absolute;
-	margin: -42px 0 0 -42px;
-	top: 50%;
-	left: 50%;
-	width: 84px;
-	height: 84px;
-	padding: 0;
-	color: #fff;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-size: 5vmin;
+  position: absolute;
+  margin: -42px 0 0 -42px;
+  top: 50%;
+  left: 50%;
+  width: 84px;
+  height: 84px;
+  padding: 0;
+  color: #fff;
 }
 
 .playing .play-button {
@@ -378,30 +538,30 @@ ul > li:hover .play-button {
 }
 
 .play-button:focus {
-	outline: none;
+  outline: none;
 }
 
 .play-button .icon {
-	transform: scale(0.8);
+  transform: scale(0.8);
   fill: #222;
-	width: 90%;
-	height: 90%;
-	top: 0;
-	left: 0;
-	transition: opacity 0.3s;
-  background: rgba(255, 255, 255, .7);
+  width: 90%;
+  height: 90%;
+  top: 0;
+  left: 0;
+  transition: opacity 0.3s;
+  background: rgba(255, 255, 255, 0.7);
   border-radius: 50%;
   padding: 10px;
   box-sizing: border-box;
 }
 
 .control-button--active .icon--play {
-	opacity: 0;
+  opacity: 0;
 }
 
 .tracks ol {
   pointer-events: all;
-  background: rgba(0, 0, 0, .7);
+  background: rgba(0, 0, 0, 0.7);
   font-size: 15px;
   margin: 0;
   padding: 5px 0;
@@ -414,27 +574,36 @@ ul > li:hover .play-button {
 
 .tracks ol li {
   padding: 10px 20px;
-  border-top: 1px solid #333
+  border-top: 1px solid #333;
 }
 
 .tracks ol li:first-child {
-  border: none
+  border: none;
 }
 
 .disabled::before {
-  top:0;left:0;right:0;bottom:0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   position: absolute;
-  content:'';
-  background: #444 url("data:image/svg+xml;utf8,<svg enable-background='new 0 0 177.055 177.055' viewBox='0 0 177.055 177.055' xmlns='http://www.w3.org/2000/svg'><path d='m.001 88.527c0 48.814 39.713 88.527 88.527 88.527 48.813 0 88.526-39.713 88.526-88.527s-39.713-88.527-88.526-88.527c-48.814 0-88.527 39.713-88.527 88.527zm88.527-64.223c35.413 0 64.224 28.811 64.224 64.224 0 13.324-4.081 25.712-11.055 35.983l-89.153-89.152c10.272-6.974 22.66-11.055 35.984-11.055zm35.983 117.392c-10.272 6.974-22.659 11.055-35.983 11.055-35.413 0-64.223-28.811-64.223-64.224 0-13.324 4.081-25.711 11.054-35.983z'/></svg>");
+  content: "";
+  background: #444
+    url("data:image/svg+xml;utf8,<svg enable-background='new 0 0 177.055 177.055' viewBox='0 0 177.055 177.055' xmlns='http://www.w3.org/2000/svg'><path d='m.001 88.527c0 48.814 39.713 88.527 88.527 88.527 48.813 0 88.526-39.713 88.526-88.527s-39.713-88.527-88.526-88.527c-48.814 0-88.527 39.713-88.527 88.527zm88.527-64.223c35.413 0 64.224 28.811 64.224 64.224 0 13.324-4.081 25.712-11.055 35.983l-89.153-89.152c10.272-6.974 22.66-11.055 35.984-11.055zm35.983 117.392c-10.272 6.974-22.659 11.055-35.983 11.055-35.413 0-64.223-28.811-64.223-64.224 0-13.324 4.081-25.711 11.054-35.983z'/></svg>");
   z-index: 10;
   background-size: 60px;
   background-repeat: no-repeat;
   background-position: center;
-  opacity: .8;
+  opacity: 0.8;
+}
+
+.disabled .meta {
+  z-index: 100;
+  opacity: 0.7;
 }
 
 .playing::after {
-  padding-bottom: 40%
+  padding-bottom: 40%;
 }
 
 .numb {

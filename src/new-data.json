@@ -3,12 +3,8 @@
     "title": "Juju Music",
     "slug": "61ac937734f90bf312300124",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Nigerian superstar King Sunny Adé’s 1982 international breakthrough, an album whose complex fusion of musical traditions produced a singularly captivating groove.",
-    "artists": [
-      "King Sunny Adé"
-    ],
-    "labels": [
-      "Island"
-    ],
+    "artists": ["King Sunny Adé"],
+    "labels": ["Island"],
     "url": "https://pitchfork.com/reviews/albums/king-sunny-ade-juju-music/",
     "photo": "covers/61ac937734f90bf312300124.jpeg",
     "year": 1982,
@@ -65,48 +61,20 @@
       }
     ],
     "palette": [
-      [
-        171,
-        59,
-        69
-      ],
-      [
-        145,
-        109,
-        49
-      ],
-      [
-        238,
-        226,
-        125
-      ],
-      [
-        180,
-        134,
-        106
-      ],
-      [
-        100,
-        91,
-        74
-      ],
-      [
-        199,
-        171,
-        159
-      ]
+      [171, 59, 69],
+      [145, 109, 49],
+      [238, 226, 125],
+      [180, 134, 106],
+      [100, 91, 74],
+      [199, 171, 159]
     ]
   },
   {
     "title": "Look-Ka Py Py",
     "slug": "614251bec7be10985dbc6a23",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we revisit an inimitable album of New Orleans music, home to the deepest grooves and an enormous foundation for funk, rock, and rap.",
-    "artists": [
-      "The Meters"
-    ],
-    "labels": [
-      "Josie"
-    ],
+    "artists": ["The Meters"],
+    "labels": ["Josie"],
     "url": "https://pitchfork.com/reviews/albums/the-meters-look-ka-py-py/",
     "photo": "covers/614251bec7be10985dbc6a23.jpeg",
     "year": 1970,
@@ -198,50 +166,22 @@
       }
     ],
     "palette": [
-      [
-        124,
-        196,
-        36
-      ],
-      [
-        111,
-        122,
-        53
-      ],
-      [
-        228,
-        191,
-        106
-      ],
-      [
-        163,
-        110,
-        86
-      ],
-      [
-        80,
-        70,
-        45
-      ],
-      [
-        226,
-        217,
-        194
-      ]
+      [124, 196, 36],
+      [111, 122, 53],
+      [228, 191, 106],
+      [163, 110, 86],
+      [80, 70, 45],
+      [226, 217, 194]
     ]
   },
   {
     "title": "Born in the USA",
     "slug": "610d5f0a1caf2647247f822a",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we revisit a 1980s rock blockbuster: the bold, brilliant, and misunderstood apex of Bruce Springsteen’s imperial era.",
-    "artists": [
-      "Bruce Springsteen"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Bruce Springsteen"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/bruce-springsteen-born-in-the-usa/",
-    "photo": "covers/610d5f0a1caf2647247f822a.jpg",
+    "photo": "covers/610d5f0a1caf2647247f822a.webp",
     "year": 1984,
     "spotify": "spotify:album:0PMasrHdpaoIRuHuhHp72O",
     "tracks": [
@@ -331,50 +271,22 @@
       }
     ],
     "palette": [
-      [
-        164,
-        34,
-        51
-      ],
-      [
-        163,
-        20,
-        44
-      ],
-      [
-        236,
-        188,
-        148
-      ],
-      [
-        163,
-        90,
-        78
-      ],
-      [
-        88,
-        52,
-        54
-      ],
-      [
-        225,
-        207,
-        194
-      ]
+      [164, 34, 51],
+      [163, 20, 44],
+      [236, 188, 148],
+      [163, 90, 78],
+      [88, 52, 54],
+      [225, 207, 194]
     ]
   },
   {
     "title": "American Beauty",
     "slug": "5f97239e06efd255af1f05ed",
     "review": "Reissued for its 50th anniversary, American Beauty is undoubtedly the Dead’s most beloved studio album, a pure and potent representation of their style and philosophical outlook.",
-    "artists": [
-      "Grateful Dead"
-    ],
-    "labels": [
-      "Rhino"
-    ],
+    "artists": ["Grateful Dead"],
+    "labels": ["Rhino"],
     "url": "https://pitchfork.com/reviews/albums/grateful-dead-american-beauty-the-angels-share/",
-    "photo": "covers/5f97239e06efd255af1f05ed.jpg",
+    "photo": "covers/5f97239e06efd255af1f05ed.webp",
     "year": 1970,
     "spotify": "spotify:album:7rqgm1BnAZ8I4d6hukpkdg",
     "tracks": [
@@ -450,50 +362,22 @@
       }
     ],
     "palette": [
-      [
-        178,
-        124,
-        86
-      ],
-      [
-        102,
-        72,
-        44
-      ],
-      [
-        198,
-        147,
-        95
-      ],
-      [
-        159,
-        108,
-        76
-      ],
-      [
-        99,
-        52,
-        51
-      ],
-      [
-        183,
-        207,
-        202
-      ]
+      [178, 124, 86],
+      [102, 72, 44],
+      [198, 147, 95],
+      [159, 108, 76],
+      [99, 52, 51],
+      [183, 207, 202]
     ]
   },
   {
     "title": "Maggot Brain",
     "slug": "5ee90bac7bb7acb328d5683b",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit a monument psychedelic funk, a defining document of Black rock music in the early ’70s.",
-    "artists": [
-      "Funkadelic"
-    ],
-    "labels": [
-      "Westbound"
-    ],
+    "artists": ["Funkadelic"],
+    "labels": ["Westbound"],
     "url": "https://pitchfork.com/reviews/albums/funkadelic-maggot-brain/",
-    "photo": "covers/5ee90bac7bb7acb328d5683b.jpg",
+    "photo": "covers/5ee90bac7bb7acb328d5683b.webp",
     "year": 1971,
     "spotify": "spotify:album:3ywVzrwMQ3Kq43N9zBdBQm",
     "tracks": [
@@ -548,50 +432,22 @@
       }
     ],
     "palette": [
-      [
-        167,
-        101,
-        50
-      ],
-      [
-        113,
-        68,
-        28
-      ],
-      [
-        224,
-        184,
-        153
-      ],
-      [
-        163,
-        139,
-        100
-      ],
-      [
-        96,
-        76,
-        44
-      ],
-      [
-        172,
-        177,
-        157
-      ]
+      [167, 101, 50],
+      [113, 68, 28],
+      [224, 184, 153],
+      [163, 139, 100],
+      [96, 76, 44],
+      [172, 177, 157]
     ]
   },
   {
     "title": "Fear of Music",
     "slug": "5e9f19c26be2540008370e64",
     "review": "Talking Heads’ third album revealed a band to be relentless interrogators of music and its place in culture. It is a landmark album for the past and present of art-rock, an undisputed masterpiece.",
-    "artists": [
-      "Talking Heads"
-    ],
-    "labels": [
-      "Sire"
-    ],
+    "artists": ["Talking Heads"],
+    "labels": ["Sire"],
     "url": "https://pitchfork.com/reviews/albums/talking-heads-fear-of-music/",
-    "photo": "covers/5e9f19c26be2540008370e64.jpg",
+    "photo": "covers/5e9f19c26be2540008370e64.webp",
     "year": 1979,
     "spotify": "spotify:album:5dVZpNJraoqCo3BssinMoo",
     "tracks": [
@@ -702,50 +558,22 @@
       }
     ],
     "palette": [
-      [
-        124,
-        165,
-        90
-      ],
-      [
-        64,
-        86,
-        47
-      ],
-      [
-        187,
-        208,
-        169
-      ],
-      [
-        137,
-        167,
-        112
-      ],
-      [
-        70,
-        81,
-        59
-      ],
-      [
-        154,
-        186,
-        128
-      ]
+      [124, 165, 90],
+      [64, 86, 47],
+      [187, 208, 169],
+      [137, 167, 112],
+      [70, 81, 59],
+      [154, 186, 128]
     ]
   },
   {
     "title": "Fetch the Bolt Cutters",
     "slug": "5e95eccf43d6eb0008f6a843",
     "review": "Fiona Apple’s fifth record is unbound, a wild symphony of the everyday, an unyielding masterpiece. No music has ever sounded quite like it.",
-    "artists": [
-      "Fiona Apple"
-    ],
-    "labels": [
-      "Epic"
-    ],
+    "artists": ["Fiona Apple"],
+    "labels": ["Epic"],
     "url": "https://pitchfork.com/reviews/albums/fiona-apple-fetch-the-bolt-cutters/",
-    "photo": "covers/5e95eccf43d6eb0008f6a843.jpg",
+    "photo": "covers/5e95eccf43d6eb0008f6a843.webp",
     "year": 2020,
     "spotify": "spotify:album:0fO1KemWL2uCCQmM22iKlj",
     "tracks": [
@@ -842,50 +670,22 @@
       }
     ],
     "palette": [
-      [
-        192,
-        164,
-        84
-      ],
-      [
-        95,
-        75,
-        32
-      ],
-      [
-        219,
-        203,
-        158
-      ],
-      [
-        140,
-        100,
-        124
-      ],
-      [
-        94,
-        51,
-        82
-      ],
-      [
-        179,
-        179,
-        179
-      ]
+      [192, 164, 84],
+      [95, 75, 32],
+      [219, 203, 158],
+      [140, 100, 124],
+      [94, 51, 82],
+      [179, 179, 179]
     ]
   },
   {
     "title": "Head Hunters",
     "slug": "5e84fec51c7d5e0008fee826",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Herbie Hancock’s jazz-funk masterpiece, a celebration of all that is modern and ancient.",
-    "artists": [
-      "Herbie Hancock"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Herbie Hancock"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/herbie-hancock-head-hunters/",
-    "photo": "covers/5e84fec51c7d5e0008fee826.jpg",
+    "photo": "covers/5e84fec51c7d5e0008fee826.webp",
     "year": 1973,
     "spotify": "spotify:album:5fmIolILp5NAtNYiRPjhzA",
     "tracks": [
@@ -919,50 +719,22 @@
       }
     ],
     "palette": [
-      [
-        233,
-        205,
-        46
-      ],
-      [
-        119,
-        36,
-        45
-      ],
-      [
-        242,
-        226,
-        135
-      ],
-      [
-        106,
-        136,
-        108
-      ],
-      [
-        36,
-        36,
-        76
-      ],
-      [
-        138,
-        120,
-        15
-      ]
+      [233, 205, 46],
+      [119, 36, 45],
+      [242, 226, 135],
+      [106, 136, 108],
+      [36, 36, 76],
+      [138, 120, 15]
     ]
   },
   {
     "title": "Post",
     "slug": "5e58193965d24e000822a373",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Björk’s second album, the foundation for one of the most consequential careers in pop history.",
-    "artists": [
-      "Björk"
-    ],
-    "labels": [
-      "Elektra"
-    ],
+    "artists": ["Björk"],
+    "labels": ["Elektra"],
     "url": "https://pitchfork.com/reviews/albums/bjork-post/",
-    "photo": "covers/5e58193965d24e000822a373.jpg",
+    "photo": "covers/5e58193965d24e000822a373.webp",
     "year": 1995,
     "spotify": "spotify:album:3p7WXDBxhC5KS9IFXnwae7",
     "tracks": [
@@ -1045,51 +817,22 @@
       }
     ],
     "palette": [
-      [
-        214,
-        73,
-        18
-      ],
-      [
-        173,
-        13,
-        66
-      ],
-      [
-        240,
-        167,
-        161
-      ],
-      [
-        162,
-        138,
-        181
-      ],
-      [
-        101,
-        59,
-        87
-      ],
-      [
-        177,
-        191,
-        202
-      ]
+      [214, 73, 18],
+      [173, 13, 66],
+      [240, 167, 161],
+      [162, 138, 181],
+      [101, 59, 87],
+      [177, 191, 202]
     ]
   },
   {
     "title": "Tapestry",
     "slug": "5df90f403c598c000864d858",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Carole King’s Tapestry, the second act that turned a master songwriter into a music legend.",
-    "artists": [
-      "Carole King"
-    ],
-    "labels": [
-      "Ode",
-      "A&M"
-    ],
+    "artists": ["Carole King"],
+    "labels": ["Ode", "A&M"],
     "url": "https://pitchfork.com/reviews/albums/carole-king-tapestry/",
-    "photo": "covers/5df90f403c598c000864d858.jpg",
+    "photo": "covers/5df90f403c598c000864d858.webp",
     "year": 1971,
     "spotify": "spotify:album:12n11cgnpjXKLeqrnIERoS",
     "tracks": [
@@ -1179,48 +922,22 @@
       }
     ],
     "palette": [
-      [
-        187,
-        68,
-        69
-      ],
-      [
-        108,
-        39,
-        40
-      ],
-      [
-        218,
-        197,
-        177
-      ],
-      [
-        172,
-        100,
-        92
-      ],
-      [
-        84,
-        56,
-        62
-      ],
-      [
-        203,
-        183,
-        175
-      ]
+      [187, 68, 69],
+      [108, 39, 40],
+      [218, 197, 177],
+      [172, 100, 92],
+      [84, 56, 62],
+      [203, 183, 175]
     ]
   },
   {
     "title": "The Chronic",
     "slug": "5dee9d64b91d230008bf3421",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the timeless 1992 debut from Dr. Dre, a historic moment in hip-hop that redefined West Coast rap.",
-    "artists": [
-      "Dr. Dre"
-    ],
+    "artists": ["Dr. Dre"],
     "labels": [],
     "url": "https://pitchfork.com/reviews/albums/dr-dre-the-chronic/",
-    "photo": "covers/5dee9d64b91d230008bf3421.jpg",
+    "photo": "covers/5dee9d64b91d230008bf3421.webp",
     "year": 1992,
     "spotify": "spotify:album:6vdFSyhPjL4dZFkgRtToXH",
     "tracks": [
@@ -1338,50 +1055,22 @@
       }
     ],
     "palette": [
-      [
-        156,
-        137,
-        68
-      ],
-      [
-        36,
-        84,
-        134
-      ],
-      [
-        220,
-        164,
-        170
-      ],
-      [
-        169,
-        158,
-        108
-      ],
-      [
-        72,
-        60,
-        60
-      ],
-      [
-        207,
-        204,
-        171
-      ]
+      [156, 137, 68],
+      [36, 84, 134],
+      [220, 164, 170],
+      [169, 158, 108],
+      [72, 60, 60],
+      [207, 204, 171]
     ]
   },
   {
     "title": "Aja",
     "slug": "5dbafc54a294dc0009cac07b",
     "review": "With 1977’s Aja, Walter Becker and Donald Fagen took their chops and studio finesse to their logical peak, creating a jazz-rock hybrid full of transcendent, indelible songwriting and virtuoso craftsmanship.",
-    "artists": [
-      "Steely Dan"
-    ],
-    "labels": [
-      "UMG"
-    ],
+    "artists": ["Steely Dan"],
+    "labels": ["UMG"],
     "url": "https://pitchfork.com/reviews/albums/steely-dan-aja/",
-    "photo": "covers/5dbafc54a294dc0009cac07b.jpg",
+    "photo": "covers/5dbafc54a294dc0009cac07b.webp",
     "year": 1977,
     "spotify": "spotify:album:5Zxv8bCtxjz11jjypNdkEa",
     "tracks": [
@@ -1436,50 +1125,22 @@
       }
     ],
     "palette": [
-      [
-        196,
-        51,
-        56
-      ],
-      [
-        119,
-        30,
-        29
-      ],
-      [
-        236,
-        196,
-        172
-      ],
-      [
-        176,
-        101,
-        88
-      ],
-      [
-        82,
-        68,
-        63
-      ],
-      [
-        184,
-        180,
-        204
-      ]
+      [196, 51, 56],
+      [119, 30, 29],
+      [236, 196, 172],
+      [176, 101, 88],
+      [82, 68, 63],
+      [184, 180, 204]
     ]
   },
   {
     "title": "In the Court of the Crimson King (50th Anniversary)",
     "slug": "5dc05332b4386a0008286bd9",
     "review": "The perennially reissued debut from the prog rock giants doesn’t offer much memorable bonus material, but the album itself remains a towering pillar of musicianship, wonder, and menace.",
-    "artists": [
-      "King Crimson"
-    ],
-    "labels": [
-      "DGM"
-    ],
+    "artists": ["King Crimson"],
+    "labels": ["DGM"],
     "url": "https://pitchfork.com/reviews/albums/king-crimson-in-the-court-of-the-crimson-king-50th-anniversary/",
-    "photo": "covers/5dc05332b4386a0008286bd9.jpg",
+    "photo": "covers/5dc05332b4386a0008286bd9.webp",
     "year": 1969,
     "spotify": "spotify:album:6tVg2Wl9hVKMpHYcAl2V2M",
     "tracks": [
@@ -1541,50 +1202,22 @@
       }
     ],
     "palette": [
-      [
-        222,
-        101,
-        68
-      ],
-      [
-        122,
-        51,
-        50
-      ],
-      [
-        236,
-        126,
-        122
-      ],
-      [
-        164,
-        82,
-        81
-      ],
-      [
-        78,
-        43,
-        48
-      ],
-      [
-        180,
-        182,
-        201
-      ]
+      [222, 101, 68],
+      [122, 51, 50],
+      [236, 126, 122],
+      [164, 82, 81],
+      [78, 43, 48],
+      [180, 182, 201]
     ]
   },
   {
     "title": "Selected Ambient Works Volume II",
     "slug": "5cafb190162e842a5dcfabf9",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit an album that changed ambient music forever.",
-    "artists": [
-      "Aphex Twin"
-    ],
-    "labels": [
-      "Warp"
-    ],
+    "artists": ["Aphex Twin"],
+    "labels": ["Warp"],
     "url": "https://pitchfork.com/reviews/albums/aphex-twin-selected-ambient-works-volume-ii/",
-    "photo": "covers/5cafb190162e842a5dcfabf9.jpg",
+    "photo": "covers/5cafb190162e842a5dcfabf9.webp",
     "year": 1994,
     "spotify": "spotify:album:17vHPMmoxN5B8cdhCDeMTe",
     "tracks": [
@@ -1758,50 +1391,22 @@
       }
     ],
     "palette": [
-      [
-        185,
-        117,
-        56
-      ],
-      [
-        92,
-        36,
-        18
-      ],
-      [
-        222,
-        196,
-        130
-      ],
-      [
-        140,
-        108,
-        63
-      ],
-      [
-        84,
-        60,
-        44
-      ],
-      [
-        196,
-        180,
-        172
-      ]
+      [185, 117, 56],
+      [92, 36, 18],
+      [222, 196, 130],
+      [140, 108, 63],
+      [84, 60, 44],
+      [196, 180, 172]
     ]
   },
   {
     "title": "Journey in Satchidananda",
     "slug": "5c530ff6828b6307e6d8668a",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit a marvel of spiritual jazz, an album overflowing with transcendence, harmony, and grief.",
-    "artists": [
-      "Alice Coltrane"
-    ],
-    "labels": [
-      "ABC"
-    ],
+    "artists": ["Alice Coltrane"],
+    "labels": ["ABC"],
     "url": "https://pitchfork.com/reviews/albums/alice-coltrane-journey-in-satchidananda/",
-    "photo": "covers/5c530ff6828b6307e6d8668a.jpg",
+    "photo": "covers/5c530ff6828b6307e6d8668a.webp",
     "year": 1971,
     "spotify": "spotify:album:6zV55F6W8kh1qe8LHhqRbz",
     "tracks": [
@@ -1842,50 +1447,22 @@
       }
     ],
     "palette": [
-      [
-        184,
-        70,
-        83
-      ],
-      [
-        130,
-        53,
-        52
-      ],
-      [
-        220,
-        154,
-        160
-      ],
-      [
-        179,
-        81,
-        120
-      ],
-      [
-        121,
-        63,
-        85
-      ],
-      [
-        205,
-        173,
-        202
-      ]
+      [184, 70, 83],
+      [130, 53, 52],
+      [220, 154, 160],
+      [179, 81, 120],
+      [121, 63, 85],
+      [205, 173, 202]
     ]
   },
   {
     "title": "Spirit of Eden",
     "slug": "5c36723d5fbf8f2cb4a93f2d",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the masterful, groundbreaking sound that laid the foundation for post-rock.",
-    "artists": [
-      "Talk Talk"
-    ],
-    "labels": [
-      "Parlophone"
-    ],
+    "artists": ["Talk Talk"],
+    "labels": ["Parlophone"],
     "url": "https://pitchfork.com/reviews/albums/talk-talk-spirit-of-eden/",
-    "photo": "covers/5c36723d5fbf8f2cb4a93f2d.jpg",
+    "photo": "covers/5c36723d5fbf8f2cb4a93f2d.webp",
     "year": 1988,
     "spotify": "spotify:album:4YXo7p7aubyVIbNLoVlBp9",
     "tracks": [
@@ -1933,50 +1510,22 @@
       }
     ],
     "palette": [
-      [
-        65,
-        109,
-        174
-      ],
-      [
-        17,
-        61,
-        123
-      ],
-      [
-        232,
-        196,
-        164
-      ],
-      [
-        84,
-        110,
-        146
-      ],
-      [
-        50,
-        59,
-        81
-      ],
-      [
-        193,
-        176,
-        202
-      ]
+      [65, 109, 174],
+      [17, 61, 123],
+      [232, 196, 164],
+      [84, 110, 146],
+      [50, 59, 81],
+      [193, 176, 202]
     ]
   },
   {
     "title": "Remain in Light",
     "slug": "5bbba000ba92702ce48925fc",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit an art-rock masterpiece, a thrilling synthesis of artifice and Afrobeat.",
-    "artists": [
-      "Talking Heads"
-    ],
-    "labels": [
-      "Sire"
-    ],
+    "artists": ["Talking Heads"],
+    "labels": ["Sire"],
     "url": "https://pitchfork.com/reviews/albums/talking-heads-remain-in-light/",
-    "photo": "covers/5bbba000ba92702ce48925fc.jpg",
+    "photo": "covers/5bbba000ba92702ce48925fc.webp",
     "year": 1980,
     "spotify": "spotify:album:3AQgdwMNCiN7awXch5fAaG",
     "tracks": [
@@ -2066,99 +1615,43 @@
       }
     ],
     "palette": [
-      [
-        252,
-        4,
-        4
-      ],
-      [
-        207,
-        35,
-        20
-      ],
-      [
-        135,
-        228,
-        249
-      ],
-      [
-        112,
-        134,
-        154
-      ],
-      [
-        58,
-        61,
-        81
-      ],
-      [
-        166,
-        204,
-        208
-      ]
+      [252, 4, 4],
+      [207, 35, 20],
+      [135, 228, 249],
+      [112, 134, 154],
+      [58, 61, 81],
+      [166, 204, 208]
     ]
   },
   {
     "title": "3 Feet High and Rising",
     "slug": "5ba54e9c66ff630650f8e4a6",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the groundbreaking 1989 debut album from hip-hop legends De La Soul.",
-    "artists": [
-      "De La Soul"
-    ],
-    "labels": [
-      "Tommy Boy"
-    ],
+    "artists": ["De La Soul"],
+    "labels": ["Tommy Boy"],
     "url": "https://pitchfork.com/reviews/albums/de-la-soul-3-feet-high-and-rising/",
-    "photo": "covers/5ba54e9c66ff630650f8e4a6.jpg",
+    "photo": "covers/5ba54e9c66ff630650f8e4a6.webp",
     "year": 1989,
     "tracks": {
       "length": 24
     },
     "palette": [
-      [
-        252,
-        252,
-        4
-      ],
-      [
-        14,
-        15,
-        4
-      ],
-      [
-        236,
-        236,
-        52
-      ],
-      [
-        144,
-        100,
-        74
-      ],
-      [
-        55,
-        50,
-        75
-      ],
-      [
-        122,
-        120,
-        193
-      ]
+      [252, 252, 4],
+      [14, 15, 4],
+      [236, 236, 52],
+      [144, 100, 74],
+      [55, 50, 75],
+      [122, 120, 193]
     ]
   },
   {
     "title": "Rid of Me",
     "slug": "5b9153f4d244ec2c9bc11346",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit PJ Harvey’s searing and monumental album from 1993.",
-    "artists": [
-      "PJ Harvey"
-    ],
-    "labels": [
-      "Island"
-    ],
+    "artists": ["PJ Harvey"],
+    "labels": ["Island"],
     "url": "https://pitchfork.com/reviews/albums/pj-harvey-rid-of-me/",
-    "photo": "covers/5b9153f4d244ec2c9bc11346.jpg",
+    "photo": "covers/5b9153f4d244ec2c9bc11346.webp",
     "year": 1993,
     "spotify": "spotify:album:2fDJpBJhtloxzUENHlU9JB",
     "tracks": [
@@ -2262,50 +1755,22 @@
       }
     ],
     "palette": [
-      [
-        200,
-        200,
-        55
-      ],
-      [
-        104,
-        104,
-        28
-      ],
-      [
-        252,
-        252,
-        244
-      ],
-      [
-        123,
-        124,
-        125
-      ],
-      [
-        62,
-        60,
-        68
-      ],
-      [
-        184,
-        184,
-        184
-      ]
+      [200, 200, 55],
+      [104, 104, 28],
+      [252, 252, 244],
+      [123, 124, 125],
+      [62, 60, 68],
+      [184, 184, 184]
     ]
   },
   {
     "title": "The Band",
     "slug": "5b181c567bb348752f6c5a9a",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we explore the collectivism of the Band’s 1969 self-titled album.",
-    "artists": [
-      "The Band"
-    ],
-    "labels": [
-      "Capitol"
-    ],
+    "artists": ["The Band"],
+    "labels": ["Capitol"],
     "url": "https://pitchfork.com/reviews/albums/the-band-the-band/",
-    "photo": "covers/5b181c567bb348752f6c5a9a.jpg",
+    "photo": "covers/5b181c567bb348752f6c5a9a.webp",
     "year": 1969,
     "spotify": "spotify:album:4vXFiaDS8zuEl5bOUbW53x",
     "tracks": [
@@ -2395,50 +1860,22 @@
       }
     ],
     "palette": [
-      [
-        168,
-        116,
-        60
-      ],
-      [
-        116,
-        76,
-        36
-      ],
-      [
-        228,
-        186,
-        137
-      ],
-      [
-        168,
-        123,
-        93
-      ],
-      [
-        82,
-        61,
-        44
-      ],
-      [
-        192,
-        151,
-        113
-      ]
+      [168, 116, 60],
+      [116, 76, 36],
+      [228, 186, 137],
+      [168, 123, 93],
+      [82, 61, 44],
+      [192, 151, 113]
     ]
   },
   {
     "title": "Live Through This",
     "slug": "5af59edce36af94c77901563",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we explore the righteous anger of Hole’s 1994 album Live Through This.",
-    "artists": [
-      "Hole"
-    ],
-    "labels": [
-      "City Slang"
-    ],
+    "artists": ["Hole"],
+    "labels": ["City Slang"],
     "url": "https://pitchfork.com/reviews/albums/hole-live-through-this/",
-    "photo": "covers/5af59edce36af94c77901563.jpg",
+    "photo": "covers/5af59edce36af94c77901563.webp",
     "year": 1994,
     "spotify": "spotify:album:2Rwf2nPYZQ9aIe4QXACTC7",
     "tracks": [
@@ -2528,50 +1965,22 @@
       }
     ],
     "palette": [
-      [
-        210,
-        135,
-        49
-      ],
-      [
-        94,
-        39,
-        30
-      ],
-      [
-        249,
-        212,
-        129
-      ],
-      [
-        166,
-        142,
-        91
-      ],
-      [
-        65,
-        44,
-        84
-      ],
-      [
-        213,
-        162,
-        194
-      ]
+      [210, 135, 49],
+      [94, 39, 30],
+      [249, 212, 129],
+      [166, 142, 91],
+      [65, 44, 84],
+      [213, 162, 194]
     ]
   },
   {
     "title": "Nebraska",
     "slug": "5aabf02b66d4467cc9d44b50",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we explore the solitary sound of the incomparable Nebraska.",
-    "artists": [
-      "Bruce Springsteen"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Bruce Springsteen"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/bruce-springsteen-nebraska/",
-    "photo": "covers/5aabf02b66d4467cc9d44b50.jpg",
+    "photo": "covers/5aabf02b66d4467cc9d44b50.webp",
     "year": 1982,
     "spotify": "spotify:album:6yskFQZNlLYhkchAxELHi6",
     "tracks": [
@@ -2647,50 +2056,22 @@
       }
     ],
     "palette": [
-      [
-        193,
-        58,
-        47
-      ],
-      [
-        107,
-        32,
-        26
-      ],
-      [
-        229,
-        154,
-        148
-      ],
-      [
-        137,
-        133,
-        127
-      ],
-      [
-        105,
-        68,
-        62
-      ],
-      [
-        193,
-        188,
-        187
-      ]
+      [193, 58, 47],
+      [107, 32, 26],
+      [229, 154, 148],
+      [137, 133, 127],
+      [105, 68, 62],
+      [193, 188, 187]
     ]
   },
   {
     "title": "The Queen is Dead",
     "slug": "59df97cd430493472dcdb304",
     "review": "Newly reissued as a boxed set, the Smiths’ 1986 masterpiece still stands as an enduring testament to England in the ’80s, the complex relationship between performer and fan, and the ecstasy of emptiness.",
-    "artists": [
-      "The Smiths"
-    ],
-    "labels": [
-      "Warner Bros."
-    ],
+    "artists": ["The Smiths"],
+    "labels": ["Warner Bros."],
     "url": "https://pitchfork.com/reviews/albums/the-smiths-the-queen-is-dead/",
-    "photo": "covers/59df97cd430493472dcdb304.jpg",
+    "photo": "covers/59df97cd430493472dcdb304.webp",
     "year": 1986,
     "spotify": "spotify:album:5Y0p2XCgRRIjna91aQE8q7",
     "tracks": [
@@ -2766,50 +2147,22 @@
       }
     ],
     "palette": [
-      [
-        135,
-        129,
-        120
-      ],
-      [
-        70,
-        67,
-        63
-      ],
-      [
-        192,
-        190,
-        185
-      ],
-      [
-        132,
-        124,
-        124
-      ],
-      [
-        70,
-        68,
-        68
-      ],
-      [
-        188,
-        185,
-        180
-      ]
+      [135, 129, 120],
+      [70, 67, 63],
+      [192, 190, 185],
+      [132, 124, 124],
+      [70, 68, 68],
+      [188, 185, 180]
     ]
   },
   {
     "title": "Appetite for Destruction",
     "slug": "595507fcd85e91330e43ed7b",
     "review": "The debut from Guns N' Roses was a watershed moment in '80s rock that chronicled every vice of Los Angeles led by the lye-voiced Axl Rose and a legendary, switchblade-sharp band.",
-    "artists": [
-      "Guns N’ Roses"
-    ],
-    "labels": [
-      "Geffen"
-    ],
+    "artists": ["Guns N’ Roses"],
+    "labels": ["Geffen"],
     "url": "https://pitchfork.com/reviews/albums/guns-n-roses-appetite-for-destruction/",
-    "photo": "covers/595507fcd85e91330e43ed7b.jpg",
+    "photo": "covers/595507fcd85e91330e43ed7b.webp",
     "year": 1987,
     "spotify": "spotify:album:3I9Z1nDCL4E0cP62flcbI5",
     "tracks": [
@@ -2899,52 +2252,22 @@
       }
     ],
     "palette": [
-      [
-        199,
-        13,
-        56
-      ],
-      [
-        109,
-        14,
-        40
-      ],
-      [
-        226,
-        152,
-        99
-      ],
-      [
-        72,
-        132,
-        152
-      ],
-      [
-        43,
-        57,
-        86
-      ],
-      [
-        190,
-        185,
-        152
-      ]
+      [199, 13, 56],
+      [109, 14, 40],
+      [226, 152, 99],
+      [72, 132, 152],
+      [43, 57, 86],
+      [190, 185, 152]
     ]
   },
   {
     "title": "Supreme Clientele",
     "slug": "5929bf935e6ef95969323407",
     "review": "An unrivaled classic, Supreme Clientele marked a seismic rupture with rap tradition. It’s Tony Starks, invulnerable and silvery, casting stream-of-consciousness hexes from a general who survived hell.",
-    "artists": [
-      "Ghostface Killah"
-    ],
-    "labels": [
-      "Epic",
-      "Sony",
-      "Razor Sharp"
-    ],
+    "artists": ["Ghostface Killah"],
+    "labels": ["Epic", "Sony", "Razor Sharp"],
     "url": "https://pitchfork.com/reviews/albums/23207-supreme-clientele/",
-    "photo": "covers/5929bf935e6ef95969323407.jpg",
+    "photo": "covers/5929bf935e6ef95969323407.webp",
     "year": 2000,
     "spotify": "spotify:album:7eaQqVyq6xzAVgsxSzSP83",
     "tracks": [
@@ -3097,99 +2420,43 @@
       }
     ],
     "palette": [
-      [
-        189,
-        117,
-        78
-      ],
-      [
-        97,
-        35,
-        33
-      ],
-      [
-        155,
-        189,
-        220
-      ],
-      [
-        114,
-        127,
-        158
-      ],
-      [
-        44,
-        46,
-        82
-      ],
-      [
-        172,
-        186,
-        205
-      ]
+      [189, 117, 78],
+      [97, 35, 33],
+      [155, 189, 220],
+      [114, 127, 158],
+      [44, 46, 82],
+      [172, 186, 205]
     ]
   },
   {
     "title": "Optimo EP",
     "slug": "5929c56aea9e61561daa81d6",
     "review": "Their entire recorded output is less than an hour long, but it became the blueprint of wired, New York dance rock. Incomparable and otherworldly, Liquid Liquid were just in search of the “big beat.”",
-    "artists": [
-      "Liquid Liquid"
-    ],
-    "labels": [
-      "99"
-    ],
+    "artists": ["Liquid Liquid"],
+    "labels": ["99"],
     "url": "https://pitchfork.com/reviews/albums/23052-liquid-liquid-ep-successive-reflexes-ep-optimo-ep/",
-    "photo": "covers/5929c56aea9e61561daa81d6.jpg",
+    "photo": "covers/5929c56aea9e61561daa81d6.webp",
     "year": 1983,
     "tracks": {
       "length": 4
     },
     "palette": [
-      [
-        228,
-        28,
-        52
-      ],
-      [
-        130,
-        22,
-        35
-      ],
-      [
-        245,
-        234,
-        94
-      ],
-      [
-        141,
-        138,
-        76
-      ],
-      [
-        77,
-        75,
-        42
-      ],
-      [
-        144,
-        134,
-        9
-      ]
+      [228, 28, 52],
+      [130, 22, 35],
+      [245, 234, 94],
+      [141, 138, 76],
+      [77, 75, 42],
+      [144, 134, 9]
     ]
   },
   {
     "title": "Bach: The Goldberg Variations",
     "slug": "5929c21913d197565213bca9",
     "review": "Two virtuosic performances of a Bach composition by the eccentric Canadian pianist brought Baroque music into the modern era. Together, they explore how art and taste evolve through time.",
-    "artists": [
-      "Glenn Gould"
-    ],
-    "labels": [
-      "CBS"
-    ],
+    "artists": ["Glenn Gould"],
+    "labels": ["CBS"],
     "url": "https://pitchfork.com/reviews/albums/23016-bach-the-goldberg-variations/",
-    "photo": "covers/5929c21913d197565213bca9.jpg",
+    "photo": "covers/5929c21913d197565213bca9.webp",
     "year": 1981,
     "spotify": "spotify:album:1aCpHSQE5ghxibsQ5gkBe0",
     "tracks": [
@@ -3419,50 +2686,22 @@
       }
     ],
     "palette": [
-      [
-        242,
-        181,
-        92
-      ],
-      [
-        12,
-        20,
-        4
-      ],
-      [
-        246,
-        220,
-        131
-      ],
-      [
-        151,
-        121,
-        98
-      ],
-      [
-        81,
-        67,
-        55
-      ],
-      [
-        220,
-        198,
-        177
-      ]
+      [242, 181, 92],
+      [12, 20, 4],
+      [246, 220, 131],
+      [151, 121, 98],
+      [81, 67, 55],
+      [220, 198, 177]
     ]
   },
   {
     "title": "Ready to Die",
     "slug": "5929c1bfeb335119a49ed600",
     "review": "Today we commemorate the 20th anniversary of the death of Christopher Wallace with a review of his 1994 debut Ready to Die, an unparalleled piece of rap history.",
-    "artists": [
-      "The Notorious B.I.G."
-    ],
-    "labels": [
-      "Bad Boy"
-    ],
+    "artists": ["The Notorious B.I.G."],
+    "labels": ["Bad Boy"],
     "url": "https://pitchfork.com/reviews/albums/22952-ready-to-die/",
-    "photo": "covers/5929c1bfeb335119a49ed600.jpg",
+    "photo": "covers/5929c1bfeb335119a49ed600.webp",
     "year": 1994,
     "spotify": "spotify:album:2HTbQ0RHwukKVXAlTmCZP2",
     "tracks": [
@@ -3601,50 +2840,22 @@
       }
     ],
     "palette": [
-      [
-        199,
-        19,
-        24
-      ],
-      [
-        152,
-        14,
-        17
-      ],
-      [
-        252,
-        244,
-        244
-      ],
-      [
-        161,
-        123,
-        106
-      ],
-      [
-        109,
-        74,
-        50
-      ],
-      [
-        205,
-        184,
-        172
-      ]
+      [199, 19, 24],
+      [152, 14, 17],
+      [252, 244, 244],
+      [161, 123, 106],
+      [109, 74, 50],
+      [205, 184, 172]
     ]
   },
   {
     "title": "Weezer (Blue Album)",
     "slug": "5929c135ea9e61561daa7d51",
     "review": "Weezer’s 1994 debut, filled with geeky humor, dense cultural references, and positively gargantuan hooks, took alt-rock in a striking new direction.",
-    "artists": [
-      "Weezer"
-    ],
-    "labels": [
-      "DGC"
-    ],
+    "artists": ["Weezer"],
+    "labels": ["DGC"],
     "url": "https://pitchfork.com/reviews/albums/22858-weezer-blue-album/",
-    "photo": "covers/5929c135ea9e61561daa7d51.jpg",
+    "photo": "covers/5929c135ea9e61561daa7d51.webp",
     "year": 1994,
     "spotify": "spotify:album:1xpGyKyV26uPstk1Elgp9Q",
     "tracks": [
@@ -3720,48 +2931,20 @@
       }
     ],
     "palette": [
-      [
-        4,
-        156,
-        212
-      ],
-      [
-        14,
-        93,
-        129
-      ],
-      [
-        205,
-        146,
-        115
-      ],
-      [
-        151,
-        108,
-        98
-      ],
-      [
-        40,
-        46,
-        77
-      ],
-      [
-        220,
-        190,
-        192
-      ]
+      [4, 156, 212],
+      [14, 93, 129],
+      [205, 146, 115],
+      [151, 108, 98],
+      [40, 46, 77],
+      [220, 190, 192]
     ]
   },
   {
     "title": "Homogenic",
     "slug": "5929a2c5ea9e61561daa4b15",
     "review": "Homogenic embraced all of Björk’s most provocative contradictions. The main theme is the wish to rush headlong into a life lived to the fullest—an unbridled yearning for the sublime.",
-    "artists": [
-      "Björk"
-    ],
-    "labels": [
-      "Elektra"
-    ],
+    "artists": ["Björk"],
+    "labels": ["Elektra"],
     "url": "https://pitchfork.com/reviews/albums/22835-homogenic/",
     "photo": "covers/5929a2c5ea9e61561daa4b15.jpeg",
     "year": 1997,
@@ -3839,50 +3022,22 @@
       }
     ],
     "palette": [
-      [
-        158,
-        32,
-        55
-      ],
-      [
-        59,
-        84,
-        152
-      ],
-      [
-        172,
-        220,
-        236
-      ],
-      [
-        101,
-        118,
-        162
-      ],
-      [
-        59,
-        60,
-        102
-      ],
-      [
-        180,
-        200,
-        218
-      ]
+      [158, 32, 55],
+      [59, 84, 152],
+      [172, 220, 236],
+      [101, 118, 162],
+      [59, 60, 102],
+      [180, 200, 218]
     ]
   },
   {
     "title": "Germfree Adolescents",
     "slug": "5929bce013d197565213b3fa",
     "review": "X-Ray Spex’s debut album is a brash, vivid masterpiece of the germinal punk era. Its songs tackle identity, feminism, and consumer society with fire and joy.",
-    "artists": [
-      "X-Ray Spex"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["X-Ray Spex"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/22316-germfree-adolescents/",
-    "photo": "covers/5929bce013d197565213b3fa.jpg",
+    "photo": "covers/5929bce013d197565213b3fa.webp",
     "year": 1978,
     "spotify": "spotify:album:0VctSZij3L7E1F2wxXK71F",
     "tracks": [
@@ -3972,50 +3127,22 @@
       }
     ],
     "palette": [
-      [
-        195,
-        158,
-        52
-      ],
-      [
-        105,
-        85,
-        28
-      ],
-      [
-        252,
-        235,
-        208
-      ],
-      [
-        81,
-        97,
-        141
-      ],
-      [
-        69,
-        45,
-        37
-      ],
-      [
-        211,
-        202,
-        185
-      ]
+      [195, 158, 52],
+      [105, 85, 28],
+      [252, 235, 208],
+      [81, 97, 141],
+      [69, 45, 37],
+      [211, 202, 185]
     ]
   },
   {
     "title": "Einstein on the Beach",
     "slug": "5929bf9213d197565213b8e7",
     "review": "This massive box set offers perhaps the definitive and most comprehensive collection of Philip Glass’ work ever assembled.",
-    "artists": [
-      "Philip Glass"
-    ],
-    "labels": [
-      "Sony Masterworks"
-    ],
+    "artists": ["Philip Glass"],
+    "labels": ["Sony Masterworks"],
     "url": "https://pitchfork.com/reviews/albums/22527-the-complete-sony-recordings/",
-    "photo": "covers/5929bf9213d197565213b8e7.jpg",
+    "photo": "covers/5929bf9213d197565213b8e7.webp",
     "year": 1979,
     "spotify": "spotify:album:23lcFoeNshaG9WTX9uoZaV",
     "tracks": [
@@ -4119,50 +3246,22 @@
       }
     ],
     "palette": [
-      [
-        229,
-        66,
-        70
-      ],
-      [
-        28,
-        69,
-        119
-      ],
-      [
-        252,
-        252,
-        236
-      ],
-      [
-        174,
-        134,
-        98
-      ],
-      [
-        63,
-        53,
-        59
-      ],
-      [
-        208,
-        188,
-        164
-      ]
+      [229, 66, 70],
+      [28, 69, 119],
+      [252, 252, 236],
+      [174, 134, 98],
+      [63, 53, 59],
+      [208, 188, 164]
     ]
   },
   {
     "title": "Blood on the Tracks",
     "slug": "5929be51abf31b7dc7156121",
     "review": "Bob Dylan’s moody 1975 epic is often referred to as his “breakup album,” but it might be his most welcoming LP, its music projecting an undeniable warmth.",
-    "artists": [
-      "Bob Dylan"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Bob Dylan"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/22485-blood-on-the-tracks/",
-    "photo": "covers/5929be51abf31b7dc7156121.jpg",
+    "photo": "covers/5929be51abf31b7dc7156121.webp",
     "year": 1975,
     "spotify": "spotify:album:4WD4pslu83FF6oMa1e19mF",
     "tracks": [
@@ -4238,48 +3337,20 @@
       }
     ],
     "palette": [
-      [
-        132,
-        60,
-        84
-      ],
-      [
-        128,
-        52,
-        84
-      ],
-      [
-        214,
-        164,
-        180
-      ],
-      [
-        108,
-        142,
-        164
-      ],
-      [
-        53,
-        60,
-        72
-      ],
-      [
-        186,
-        196,
-        202
-      ]
+      [132, 60, 84],
+      [128, 52, 84],
+      [214, 164, 180],
+      [108, 142, 164],
+      [53, 60, 72],
+      [186, 196, 202]
     ]
   },
   {
     "title": "Music for 18 Musicians",
     "slug": "5929be2dc0084474cd0c2e3d",
     "review": "The ECM Recordings collects some of the minimalist composer's finest works, including the definitive recording of his undisputed masterpiece Music for 18 Musicians.",
-    "artists": [
-      "Steve Reich"
-    ],
-    "labels": [
-      "ECM"
-    ],
+    "artists": ["Steve Reich"],
+    "labels": ["ECM"],
     "url": "https://pitchfork.com/reviews/albums/22346-the-ecm-recordings/",
     "photo": "covers/5929be2dc0084474cd0c2e3d.jpeg",
     "year": 1998,
@@ -4385,50 +3456,22 @@
       }
     ],
     "palette": [
-      [
-        98,
-        117,
-        157
-      ],
-      [
-        51,
-        61,
-        81
-      ],
-      [
-        174,
-        183,
-        204
-      ],
-      [
-        132,
-        124,
-        123
-      ],
-      [
-        55,
-        61,
-        54
-      ],
-      [
-        161,
-        172,
-        196
-      ]
+      [98, 117, 157],
+      [51, 61, 81],
+      [174, 183, 204],
+      [132, 124, 123],
+      [55, 61, 54],
+      [161, 172, 196]
     ]
   },
   {
     "title": "Another Green World",
     "slug": "5929c55d13d197565213bfc6",
     "review": "Brian Eno has done everything from producing huge pop stars to creating tiny art installations to touring with rock bands to inventing ambient music. Another Green World remains his definitive album.",
-    "artists": [
-      "Brian Eno"
-    ],
-    "labels": [
-      "Island"
-    ],
+    "artists": ["Brian Eno"],
+    "labels": ["Island"],
     "url": "https://pitchfork.com/reviews/albums/22061-another-green-world/",
-    "photo": "covers/5929c55d13d197565213bfc6.jpg",
+    "photo": "covers/5929c55d13d197565213bfc6.webp",
     "year": 1975,
     "spotify": "spotify:album:6uoeezh45SYEb8lcT8gDTY",
     "tracks": [
@@ -4532,50 +3575,22 @@
       }
     ],
     "palette": [
-      [
-        205,
-        62,
-        47
-      ],
-      [
-        25,
-        118,
-        76
-      ],
-      [
-        252,
-        219,
-        174
-      ],
-      [
-        160,
-        159,
-        101
-      ],
-      [
-        52,
-        100,
-        52
-      ],
-      [
-        207,
-        199,
-        170
-      ]
+      [205, 62, 47],
+      [25, 118, 76],
+      [252, 219, 174],
+      [160, 159, 101],
+      [52, 100, 52],
+      [207, 199, 170]
     ]
   },
   {
     "title": "Songs in the Key of Life",
     "slug": "5929bbe2ea9e61561daa733e",
     "review": "*Songs in the Key of Life *was the culmination of a historic period of creativity for Stevie Wonder. Its ambition and scope were unprecedented, and he never approached its caliber or impact again.",
-    "artists": [
-      "Stevie Wonder"
-    ],
-    "labels": [
-      "Motown"
-    ],
+    "artists": ["Stevie Wonder"],
+    "labels": ["Motown"],
     "url": "https://pitchfork.com/reviews/albums/22174-songs-in-the-key-of-life/",
-    "photo": "covers/5929bbe2ea9e61561daa733e.jpg",
+    "photo": "covers/5929bbe2ea9e61561daa733e.webp",
     "year": 1976,
     "spotify": "spotify:album:6YUCc2RiXcEKS9ibuZxjt0",
     "tracks": [
@@ -4728,50 +3743,22 @@
       }
     ],
     "palette": [
-      [
-        236,
-        90,
-        63
-      ],
-      [
-        124,
-        64,
-        36
-      ],
-      [
-        252,
-        228,
-        124
-      ],
-      [
-        162,
-        137,
-        80
-      ],
-      [
-        86,
-        48,
-        42
-      ],
-      [
-        180,
-        172,
-        134
-      ]
+      [236, 90, 63],
+      [124, 64, 36],
+      [252, 228, 124],
+      [162, 137, 80],
+      [86, 48, 42],
+      [180, 172, 134]
     ]
   },
   {
     "title": "In Concert",
     "slug": "5929bc05ea9e61561daa738e",
     "review": "The Philips Years is a humble title for a collection that contains some of the most important, moving documents of American history. Nina Simone’s Philips records remain her most essential.",
-    "artists": [
-      "Nina Simone"
-    ],
-    "labels": [
-      "Philips"
-    ],
+    "artists": ["Nina Simone"],
+    "labels": ["Philips"],
     "url": "https://pitchfork.com/reviews/albums/22159-the-philips-years/",
-    "photo": "covers/5929bc05ea9e61561daa738e.jpg",
+    "photo": "covers/5929bc05ea9e61561daa738e.webp",
     "year": 1964,
     "spotify": "spotify:album:6WP4eNaAHl2a1KNp4QN6Nr",
     "tracks": [
@@ -4826,50 +3813,22 @@
       }
     ],
     "palette": [
-      [
-        46,
-        116,
-        61
-      ],
-      [
-        20,
-        105,
-        78
-      ],
-      [
-        160,
-        217,
-        172
-      ],
-      [
-        188,
-        152,
-        117
-      ],
-      [
-        44,
-        100,
-        52
-      ],
-      [
-        128,
-        160,
-        136
-      ]
+      [46, 116, 61],
+      [20, 105, 78],
+      [160, 217, 172],
+      [188, 152, 117],
+      [44, 100, 52],
+      [128, 160, 136]
     ]
   },
   {
     "title": "Tonight's the Night",
     "slug": "5929c55213d197565213bfad",
     "review": "Neil Young's Tonight's the Night is a harrowing record about loss and death. Yet it often sounds like a raucous party thrown by a bunch of lovable knuckleheads having the time of their life.",
-    "artists": [
-      "Neil Young"
-    ],
-    "labels": [
-      "Reprise"
-    ],
+    "artists": ["Neil Young"],
+    "labels": ["Reprise"],
     "url": "https://pitchfork.com/reviews/albums/22053-tonights-the-night/",
-    "photo": "covers/5929c55213d197565213bfad.jpg",
+    "photo": "covers/5929c55213d197565213bfad.webp",
     "year": 1975,
     "spotify": "spotify:album:2wjrhhAibIUwC40oFMALtr",
     "tracks": [
@@ -4959,50 +3918,22 @@
       }
     ],
     "palette": [
-      [
-        64,
-        191,
-        175
-      ],
-      [
-        4,
-        12,
-        11
-      ],
-      [
-        156,
-        222,
-        214
-      ],
-      [
-        132,
-        140,
-        140
-      ],
-      [
-        68,
-        68,
-        76
-      ],
-      [
-        184,
-        188,
-        188
-      ]
+      [64, 191, 175],
+      [4, 12, 11],
+      [156, 222, 214],
+      [132, 140, 140],
+      [68, 68, 76],
+      [184, 188, 188]
     ]
   },
   {
     "title": "Hounds of Love",
     "slug": "5929b601ea9e61561daa6ec7",
     "review": "With her self-produced fifth album, Kate Bush became a total auteur, embracing the possibilities of digital sampling synthesizers and creating a perfect marriage of technique and exploration.",
-    "artists": [
-      "Kate Bush"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["Kate Bush"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/21964-hounds-of-love/",
-    "photo": "covers/5929b601ea9e61561daa6ec7.jpg",
+    "photo": "covers/5929b601ea9e61561daa6ec7.webp",
     "year": 1985,
     "spotify": "spotify:album:5BWl0bB1q0TqyFmkBEupZy",
     "tracks": [
@@ -5092,50 +4023,22 @@
       }
     ],
     "palette": [
-      [
-        175,
-        80,
-        98
-      ],
-      [
-        68,
-        31,
-        38
-      ],
-      [
-        236,
-        172,
-        204
-      ],
-      [
-        138,
-        103,
-        169
-      ],
-      [
-        85,
-        45,
-        55
-      ],
-      [
-        200,
-        162,
-        201
-      ]
+      [175, 80, 98],
+      [68, 31, 38],
+      [236, 172, 204],
+      [138, 103, 169],
+      [85, 45, 55],
+      [200, 162, 201]
     ]
   },
   {
     "title": "Sign \"O\" the Times",
     "slug": "5929b563b1335d7bf169a8c5",
     "review": "Choosing a single high point from Prince’s glorious run in the ’80s is impossible, but Sign o’ the Times surely stands as his most complex and varied statement.",
-    "artists": [
-      "Prince"
-    ],
-    "labels": [
-      "Paisley Park"
-    ],
+    "artists": ["Prince"],
+    "labels": ["Paisley Park"],
     "url": "https://pitchfork.com/reviews/albums/21845-sign-o-the-times/",
-    "photo": "covers/5929b563b1335d7bf169a8c5.jpg",
+    "photo": "covers/5929b563b1335d7bf169a8c5.webp",
     "year": 1987,
     "spotify": "spotify:album:1XsXHctYSQNyAd9BANCk2B",
     "tracks": [
@@ -5253,50 +4156,22 @@
       }
     ],
     "palette": [
-      [
-        201,
-        153,
-        35
-      ],
-      [
-        137,
-        36,
-        18
-      ],
-      [
-        237,
-        220,
-        117
-      ],
-      [
-        144,
-        121,
-        74
-      ],
-      [
-        56,
-        76,
-        85
-      ],
-      [
-        224,
-        210,
-        199
-      ]
+      [201, 153, 35],
+      [137, 36, 18],
+      [237, 220, 117],
+      [144, 121, 74],
+      [56, 76, 85],
+      [224, 210, 199]
     ]
   },
   {
     "title": "1999",
     "slug": "5929b56013d197565213ac61",
     "review": "1999 is the greatest album ever made about partying as a way of staring down oblivion. At the height of the Cold War, suddenly the world felt a little warmer.",
-    "artists": [
-      "Prince"
-    ],
-    "labels": [
-      "Warner Bros."
-    ],
+    "artists": ["Prince"],
+    "labels": ["Warner Bros."],
     "url": "https://pitchfork.com/reviews/albums/21842-1999/",
-    "photo": "covers/5929b56013d197565213ac61.jpg",
+    "photo": "covers/5929b56013d197565213ac61.webp",
     "year": 1982,
     "spotify": "spotify:album:3U1ht9EdWEI9nMvaqdQI67",
     "tracks": [
@@ -5379,51 +4254,22 @@
       }
     ],
     "palette": [
-      [
-        167,
-        68,
-        33
-      ],
-      [
-        44,
-        4,
-        89
-      ],
-      [
-        212,
-        189,
-        164
-      ],
-      [
-        163,
-        120,
-        84
-      ],
-      [
-        50,
-        45,
-        89
-      ],
-      [
-        198,
-        164,
-        188
-      ]
+      [167, 68, 33],
+      [44, 4, 89],
+      [212, 189, 164],
+      [163, 120, 84],
+      [50, 45, 89],
+      [198, 164, 188]
     ]
   },
   {
     "title": "Purple Rain",
     "slug": "5929b55eb1335d7bf169a8c0",
     "review": "Purple Rain was a landmark that solidified Prince’s standing as the preeminent pop genius of his generation; more than three decades on, it still retains all of its power.",
-    "artists": [
-      "Prince",
-      "The Revolution"
-    ],
-    "labels": [
-      "Warner Bros."
-    ],
+    "artists": ["Prince", "The Revolution"],
+    "labels": ["Warner Bros."],
     "url": "https://pitchfork.com/reviews/albums/21841-purple-rain/",
-    "photo": "covers/5929b55eb1335d7bf169a8c0.jpg",
+    "photo": "covers/5929b55eb1335d7bf169a8c0.webp",
     "year": 1984,
     "spotify": "spotify:album:7nXJ5k4XgRj5OLg9m8V3zc",
     "tracks": [
@@ -5492,50 +4338,22 @@
       }
     ],
     "palette": [
-      [
-        243,
-        181,
-        54
-      ],
-      [
-        103,
-        55,
-        27
-      ],
-      [
-        251,
-        217,
-        69
-      ],
-      [
-        180,
-        91,
-        122
-      ],
-      [
-        66,
-        52,
-        102
-      ],
-      [
-        199,
-        191,
-        145
-      ]
+      [243, 181, 54],
+      [103, 55, 27],
+      [251, 217, 69],
+      [180, 91, 122],
+      [66, 52, 102],
+      [199, 191, 145]
     ]
   },
   {
     "title": "Dirty Mind",
     "slug": "5929b57d9d034d5c69bf5038",
     "review": "Prince’s first fully actualized album is an unrelenting dance party, its kinky ambiguities blurring lines between genres and genders and pretty much everything else.",
-    "artists": [
-      "Prince"
-    ],
-    "labels": [
-      "Warner Bros."
-    ],
+    "artists": ["Prince"],
+    "labels": ["Warner Bros."],
     "url": "https://pitchfork.com/reviews/albums/21866-dirty-mind/",
-    "photo": "covers/5929b57d9d034d5c69bf5038.jpg",
+    "photo": "covers/5929b57d9d034d5c69bf5038.webp",
     "year": 1980,
     "spotify": "spotify:album:3Cijd5OjHeWBm97DsPHpgs",
     "tracks": [
@@ -5597,50 +4415,22 @@
       }
     ],
     "palette": [
-      [
-        121,
-        127,
-        134
-      ],
-      [
-        63,
-        66,
-        70
-      ],
-      [
-        185,
-        188,
-        192
-      ],
-      [
-        126,
-        130,
-        133
-      ],
-      [
-        61,
-        64,
-        66
-      ],
-      [
-        185,
-        188,
-        192
-      ]
+      [121, 127, 134],
+      [63, 66, 70],
+      [185, 188, 192],
+      [126, 130, 133],
+      [61, 64, 66],
+      [185, 188, 192]
     ]
   },
   {
     "title": "Ride the Lightning",
     "slug": "5929b4e89d034d5c69bf4f33",
     "review": "In a monumental one-two punch, Metallica set the blueprint for thrash metal and then gave the genre its worldview with its first two records—reissued in deluxe sets that feature alternate mixes, demos, and live shows.",
-    "artists": [
-      "Metallica"
-    ],
-    "labels": [
-      "self-released"
-    ],
+    "artists": ["Metallica"],
+    "labels": ["self-released"],
     "url": "https://pitchfork.com/reviews/albums/21755-kill-em-allride-the-lightning/",
-    "photo": "covers/5929b4e89d034d5c69bf4f33.jpg",
+    "photo": "covers/5929b4e89d034d5c69bf4f33.webp",
     "year": 1984,
     "spotify": "spotify:album:05DePtm7oQMdL3Uzw2Jmsc",
     "tracks": [
@@ -5702,50 +4492,22 @@
       }
     ],
     "palette": [
-      [
-        55,
-        133,
-        195
-      ],
-      [
-        28,
-        88,
-        147
-      ],
-      [
-        114,
-        170,
-        215
-      ],
-      [
-        74,
-        111,
-        171
-      ],
-      [
-        66,
-        60,
-        104
-      ],
-      [
-        190,
-        201,
-        222
-      ]
+      [55, 133, 195],
+      [28, 88, 147],
+      [114, 170, 215],
+      [74, 111, 171],
+      [66, 60, 104],
+      [190, 201, 222]
     ]
   },
   {
     "title": "Low",
     "slug": "5929b34a5e6ef9596932242c",
     "review": "The first album in David Bowie's Berlin Trilogy sees Bowie as a tragic figure. The album's first side is a beautiful futurist ruin, littered with holes left purposefully unfixed, while the blank, instrumental second side feels like a calculated attempt to kill the author.",
-    "artists": [
-      "David Bowie"
-    ],
-    "labels": [
-      "RCA"
-    ],
+    "artists": ["David Bowie"],
+    "labels": ["RCA"],
     "url": "https://pitchfork.com/reviews/albums/21478-low/",
-    "photo": "covers/5929b34a5e6ef9596932242c.jpg",
+    "photo": "covers/5929b34a5e6ef9596932242c.webp",
     "year": 1977,
     "spotify": "spotify:album:2de6LD7eOW8zrlorbS28na",
     "tracks": [
@@ -5828,50 +4590,22 @@
       }
     ],
     "palette": [
-      [
-        251,
-        91,
-        53
-      ],
-      [
-        169,
-        30,
-        11
-      ],
-      [
-        248,
-        203,
-        115
-      ],
-      [
-        109,
-        148,
-        106
-      ],
-      [
-        60,
-        36,
-        60
-      ],
-      [
-        160,
-        192,
-        156
-      ]
+      [251, 91, 53],
+      [169, 30, 11],
+      [248, 203, 115],
+      [109, 148, 106],
+      [60, 36, 60],
+      [160, 192, 156]
     ]
   },
   {
     "title": "\"Heroes\"",
     "slug": "5929b3559d034d5c69bf4cca",
     "review": "\"Heroes\" is the second installment of David Bowie's Berlin Trilogy. The trilogy, and \"Heroes\" in particular, show all the signs of an artist growing up, shaking off the trappings of capitalist ego and success, and searching for a soul instead. It often sounds as if Bowie is conducting chaos, smashing objects together to discover scarily beautiful new shapes.",
-    "artists": [
-      "David Bowie"
-    ],
-    "labels": [
-      "RCA"
-    ],
+    "artists": ["David Bowie"],
+    "labels": ["RCA"],
     "url": "https://pitchfork.com/reviews/albums/21487-heroes/",
-    "photo": "covers/5929b3559d034d5c69bf4cca.jpg",
+    "photo": "covers/5929b3559d034d5c69bf4cca.webp",
     "year": 1977,
     "spotify": "spotify:album:4I5zzKYd2SKDgZ9DRf5LVk",
     "tracks": [
@@ -5947,50 +4681,22 @@
       }
     ],
     "palette": [
-      [
-        128,
-        128,
-        128
-      ],
-      [
-        66,
-        66,
-        66
-      ],
-      [
-        189,
-        189,
-        189
-      ],
-      [
-        132,
-        132,
-        132
-      ],
-      [
-        68,
-        68,
-        68
-      ],
-      [
-        188,
-        188,
-        188
-      ]
+      [128, 128, 128],
+      [66, 66, 66],
+      [189, 189, 189],
+      [132, 132, 132],
+      [68, 68, 68],
+      [188, 188, 188]
     ]
   },
   {
     "title": "Hunky Dory",
     "slug": "5929b186b1335d7bf169a2c2",
     "review": "Five Years is an exhaustive 12-disc set covering a significant period in Bowie's development, from his proper debut through 1973's Pin Ups. Included among some classic albums are live sets, singles, and alternate mixes.",
-    "artists": [
-      "David Bowie"
-    ],
-    "labels": [
-      "RCA"
-    ],
+    "artists": ["David Bowie"],
+    "labels": ["RCA"],
     "url": "https://pitchfork.com/reviews/albums/21066-five-years-1969-1973/",
-    "photo": "covers/5929b186b1335d7bf169a2c2.jpg",
+    "photo": "covers/5929b186b1335d7bf169a2c2.webp",
     "year": 1971,
     "spotify": "spotify:album:6fQElzBNTiEMGdIeY0hy5l",
     "tracks": [
@@ -6073,50 +4779,22 @@
       }
     ],
     "palette": [
-      [
-        180,
-        134,
-        62
-      ],
-      [
-        97,
-        60,
-        12
-      ],
-      [
-        231,
-        193,
-        122
-      ],
-      [
-        175,
-        158,
-        88
-      ],
-      [
-        124,
-        103,
-        66
-      ],
-      [
-        210,
-        186,
-        162
-      ]
+      [180, 134, 62],
+      [97, 60, 12],
+      [231, 193, 122],
+      [175, 158, 88],
+      [124, 103, 66],
+      [210, 186, 162]
     ]
   },
   {
     "title": "Surfer Rosa",
     "slug": "5929a755ea9e61561daa556d",
     "review": "This week, the reunited Pixies released their first new album in 23 years. Titled Indie Cindy, the record collects material from three EPs released over the past few months, two of which we've already reviewed. In the interest of avoiding redundancy, we chose to do something a little different...",
-    "artists": [
-      "Pixies"
-    ],
-    "labels": [
-      "4AD"
-    ],
+    "artists": ["Pixies"],
+    "labels": ["4AD"],
     "url": "https://pitchfork.com/reviews/albums/19282-pixies-catalogue/",
-    "photo": "covers/5929a755ea9e61561daa556d.jpg",
+    "photo": "covers/5929a755ea9e61561daa556d.webp",
     "year": 1988,
     "spotify": "spotify:album:50j4Wm1b9hLpSpPIA39Vp9",
     "tracks": [
@@ -6213,50 +4891,22 @@
       }
     ],
     "palette": [
-      [
-        187,
-        68,
-        119
-      ],
-      [
-        11,
-        4,
-        7
-      ],
-      [
-        244,
-        244,
-        252
-      ],
-      [
-        119,
-        106,
-        102
-      ],
-      [
-        69,
-        56,
-        54
-      ],
-      [
-        195,
-        188,
-        185
-      ]
+      [187, 68, 119],
+      [11, 4, 7],
+      [244, 244, 252],
+      [119, 106, 102],
+      [69, 56, 54],
+      [195, 188, 185]
     ]
   },
   {
     "title": "Pink Moon",
     "slug": "5929a59013d1975652138fa7",
     "review": "The posthumous marketing of Nick Drake's music has been arduous and fitful, a decades-long attempt at setting right what everyone agreed went horribly wrong the first time. His new box set Tuck Box, the latest and possibly final repackaging, includes studio albums Five Leaves Left, Bryter Layter, and Pink Moon as well as two compilations of rarities.",
-    "artists": [
-      "Nick Drake"
-    ],
-    "labels": [
-      "Island"
-    ],
+    "artists": ["Nick Drake"],
+    "labels": ["Island"],
     "url": "https://pitchfork.com/reviews/albums/18793-nick-drake-tuck-box/",
-    "photo": "covers/5929a59013d1975652138fa7.jpg",
+    "photo": "covers/5929a59013d1975652138fa7.webp",
     "year": 1972,
     "spotify": "spotify:album:5mwOo1zikswhmfHvtqVSXg",
     "tracks": [
@@ -6339,50 +4989,22 @@
       }
     ],
     "palette": [
-      [
-        195,
-        132,
-        61
-      ],
-      [
-        169,
-        60,
-        38
-      ],
-      [
-        222,
-        172,
-        72
-      ],
-      [
-        124,
-        151,
-        103
-      ],
-      [
-        68,
-        59,
-        50
-      ],
-      [
-        217,
-        213,
-        175
-      ]
+      [195, 132, 61],
+      [169, 60, 38],
+      [222, 172, 72],
+      [124, 151, 103],
+      [68, 59, 50],
+      [217, 213, 175]
     ]
   },
   {
     "title": "The Velvet Underground & Nico",
     "slug": "5929bfc6c0084474cd0c30b5",
     "review": "This limited six-disc set of the 1967 classic includes remasters, alternate versions and mixes, practice sessions recorded at Andy Warhol's Factory, a live recording, and a remaster of Nico's Chelsea Girl, on which the Velvets performed.",
-    "artists": [
-      "The Velvet Underground"
-    ],
-    "labels": [
-      "Interscope"
-    ],
+    "artists": ["The Velvet Underground"],
+    "labels": ["Interscope"],
     "url": "https://pitchfork.com/reviews/albums/17129-the-velvet-underground-nico/",
-    "photo": "covers/5929bfc6c0084474cd0c30b5.jpg",
+    "photo": "covers/5929bfc6c0084474cd0c30b5.webp",
     "year": 1967,
     "spotify": "spotify:album:4xwx0x7k6c5VuThz5qVqmV",
     "tracks": [
@@ -6465,48 +5087,20 @@
       }
     ],
     "palette": [
-      [
-        252,
-        252,
-        4
-      ],
-      [
-        116,
-        84,
-        28
-      ],
-      [
-        232,
-        226,
-        50
-      ],
-      [
-        147,
-        139,
-        81
-      ],
-      [
-        80,
-        70,
-        49
-      ],
-      [
-        174,
-        172,
-        171
-      ]
+      [252, 252, 4],
+      [116, 84, 28],
+      [232, 226, 50],
+      [147, 139, 81],
+      [80, 70, 49],
+      [174, 172, 171]
     ]
   },
   {
     "title": "Blue",
     "slug": "5929c1425e6ef9596932368e",
     "review": "The brilliant singer-songwriter's first 10 studio albums, cut during an 11-year span, have been gathered in this import box set. During this run, Mitchell charted one of the most solid career arcs in contemporary music that then detoured into one of the strangest.",
-    "artists": [
-      "Joni Mitchell"
-    ],
-    "labels": [
-      "Rhino"
-    ],
+    "artists": ["Joni Mitchell"],
+    "labels": ["Rhino"],
     "url": "https://pitchfork.com/reviews/albums/17269-the-studio-albums-1968-1979/",
     "photo": "covers/5929c1425e6ef9596932368e.jpeg",
     "year": 1971,
@@ -6584,48 +5178,20 @@
       }
     ],
     "palette": [
-      [
-        36,
-        111,
-        172
-      ],
-      [
-        4,
-        74,
-        133
-      ],
-      [
-        118,
-        155,
-        190
-      ],
-      [
-        100,
-        124,
-        168
-      ],
-      [
-        54,
-        61,
-        91
-      ],
-      [
-        151,
-        174,
-        201
-      ]
+      [36, 111, 172],
+      [4, 74, 133],
+      [118, 155, 190],
+      [100, 124, 168],
+      [54, 61, 91],
+      [151, 174, 201]
     ]
   },
   {
     "title": "For Your Pleasure",
     "slug": "5929b6309d034d5c69bf515f",
     "review": "This career-spanning box set to mark Roxy Music's 40th anniversary is often startling, usually wonderful, and more affecting than expected. It's also fascinating as the story of a gradual hardening of an elegant, enigmatic persona, of Bryan Ferry's transformation from art-school pop star to self-made sphinx.",
-    "artists": [
-      "Roxy Music"
-    ],
-    "labels": [
-      "Virgin"
-    ],
+    "artists": ["Roxy Music"],
+    "labels": ["Virgin"],
     "url": "https://pitchfork.com/reviews/albums/16810-roxy-music-the-complete-studio-recordings-1972-1982/",
     "photo": "covers/5929b6309d034d5c69bf515f.jpeg",
     "year": 1973,
@@ -6689,48 +5255,20 @@
       }
     ],
     "palette": [
-      [
-        180,
-        132,
-        84
-      ],
-      [
-        86,
-        61,
-        41
-      ],
-      [
-        208,
-        172,
-        132
-      ],
-      [
-        155,
-        114,
-        78
-      ],
-      [
-        40,
-        60,
-        76
-      ],
-      [
-        172,
-        196,
-        212
-      ]
+      [180, 132, 84],
+      [86, 61, 41],
+      [208, 172, 132],
+      [155, 114, 78],
+      [40, 60, 76],
+      [172, 196, 212]
     ]
   },
   {
     "title": "Tago Mago [40th Anniversary Edition]",
     "slug": "5929b277ea9e61561daa691f",
     "review": "Can's 1971 album Tago Mago, freshly reissued in a \"40th Anniversary Edition,\" is a colossus, the product of a band that was thinking huge, pushing itself to its limits, and devoted to breaking open its own understanding of what rock music could be.",
-    "artists": [
-      "Can"
-    ],
-    "labels": [
-      "Mute"
-    ],
+    "artists": ["Can"],
+    "labels": ["Mute"],
     "url": "https://pitchfork.com/reviews/albums/16075-tago-mago-40th-anniversary-edition/",
     "photo": "covers/5929b277ea9e61561daa691f.jpeg",
     "year": 1971,
@@ -6808,48 +5346,20 @@
       }
     ],
     "palette": [
-      [
-        180,
-        172,
-        84
-      ],
-      [
-        27,
-        95,
-        105
-      ],
-      [
-        245,
-        237,
-        200
-      ],
-      [
-        157,
-        146,
-        80
-      ],
-      [
-        41,
-        72,
-        73
-      ],
-      [
-        218,
-        215,
-        175
-      ]
+      [180, 172, 84],
+      [27, 95, 105],
+      [245, 237, 200],
+      [157, 146, 80],
+      [41, 72, 73],
+      [218, 215, 175]
     ]
   },
   {
     "title": "The Queen Is Dead",
     "slug": "5929b21b5e6ef95969322235",
     "review": "This box of remastered editions of Smiths albums-- four studio records, three compilations of the singles and one-offs, one live obligation-- would cement their reputation for brilliance and perversity, if it needed cementing. \"Complete\", however, is a profoundly inaccurate description.",
-    "artists": [
-      "The Smiths"
-    ],
-    "labels": [
-      "Rhino"
-    ],
+    "artists": ["The Smiths"],
+    "labels": ["Rhino"],
     "url": "https://pitchfork.com/reviews/albums/16027-the-smiths-complete/",
     "photo": "covers/5929b21b5e6ef95969322235.jpeg",
     "year": 1986,
@@ -6927,50 +5437,22 @@
       }
     ],
     "palette": [
-      [
-        204,
-        124,
-        126
-      ],
-      [
-        95,
-        37,
-        39
-      ],
-      [
-        244,
-        252,
-        244
-      ],
-      [
-        164,
-        108,
-        100
-      ],
-      [
-        68,
-        84,
-        62
-      ],
-      [
-        196,
-        201,
-        188
-      ]
+      [204, 124, 126],
+      [95, 37, 39],
+      [244, 252, 244],
+      [164, 108, 100],
+      [68, 84, 62],
+      [196, 201, 188]
     ]
   },
   {
     "title": "Nevermind [20th Anniversary Edition]",
     "slug": "5929b1239d034d5c69bf4999",
     "review": "Twenty years on, the album that changed the course of popular music is reissued in two deluxe versions. The enduring brilliance of the original is at this point beyond dispute, but the value of the demos, alternate mixes, and live cuts included on two new sets is debatable.",
-    "artists": [
-      "Nirvana"
-    ],
-    "labels": [
-      "Geffen"
-    ],
+    "artists": ["Nirvana"],
+    "labels": ["Geffen"],
     "url": "https://pitchfork.com/reviews/albums/15854-nevermind-20th-anniversary-edition/",
-    "photo": "covers/5929b1239d034d5c69bf4999.jpg",
+    "photo": "covers/5929b1239d034d5c69bf4999.webp",
     "year": 1991,
     "spotify": "spotify:album:2UJcKiJxNryhL050F5Z1Fk",
     "tracks": [
@@ -7067,49 +5549,20 @@
       }
     ],
     "palette": [
-      [
-        4,
-        108,
-        180
-      ],
-      [
-        10,
-        76,
-        132
-      ],
-      [
-        124,
-        189,
-        200
-      ],
-      [
-        83,
-        130,
-        150
-      ],
-      [
-        35,
-        59,
-        75
-      ],
-      [
-        218,
-        205,
-        204
-      ]
+      [4, 108, 180],
+      [10, 76, 132],
+      [124, 189, 200],
+      [83, 130, 150],
+      [35, 59, 75],
+      [218, 205, 204]
     ]
   },
   {
     "title": "My Beautiful Dark Twisted Fantasy",
     "slug": "5929ac7f9d034d5c69bf41d9",
     "review": "Kanye's big year culminates in an LP that feels like an instant greatest hits, the ultimate realization of his strongest talents and divisive public persona.",
-    "artists": [
-      "Kanye West"
-    ],
-    "labels": [
-      "Def Jam",
-      "Roc-A-Fella"
-    ],
+    "artists": ["Kanye West"],
+    "labels": ["Def Jam", "Roc-A-Fella"],
     "url": "https://pitchfork.com/reviews/albums/14880-my-beautiful-dark-twisted-fantasy/",
     "photo": "covers/5929ac7f9d034d5c69bf41d9.jpeg",
     "year": 2010,
@@ -7208,50 +5661,22 @@
       }
     ],
     "palette": [
-      [
-        204,
-        28,
-        52
-      ],
-      [
-        4,
-        76,
-        158
-      ],
-      [
-        244,
-        204,
-        92
-      ],
-      [
-        87,
-        157,
-        183
-      ],
-      [
-        54,
-        91,
-        65
-      ],
-      [
-        178,
-        184,
-        206
-      ]
+      [204, 28, 52],
+      [4, 76, 158],
+      [244, 204, 92],
+      [87, 157, 183],
+      [54, 91, 65],
+      [178, 184, 206]
     ]
   },
   {
     "title": "Abbey Road",
     "slug": "5929a5eeb1335d7bf1698cfb",
     "review": "The perfect ending to a recording career, this LP shows a band still in its prime, capable of songwriting and recording feats others could only envy.",
-    "artists": [
-      "The Beatles"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["The Beatles"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/13431-abbey-road/",
-    "photo": "covers/5929a5eeb1335d7bf1698cfb.jpg",
+    "photo": "covers/5929a5eeb1335d7bf1698cfb.webp",
     "year": 1969,
     "spotify": "spotify:album:0ETFjACtuP2ADo6LFhL6HN",
     "tracks": [
@@ -7376,50 +5801,22 @@
       }
     ],
     "palette": [
-      [
-        76,
-        132,
-        168
-      ],
-      [
-        4,
-        14,
-        20
-      ],
-      [
-        165,
-        217,
-        247
-      ],
-      [
-        164,
-        124,
-        92
-      ],
-      [
-        58,
-        82,
-        69
-      ],
-      [
-        216,
-        210,
-        182
-      ]
+      [76, 132, 168],
+      [4, 14, 20],
+      [165, 217, 247],
+      [164, 124, 92],
+      [58, 82, 69],
+      [216, 210, 182]
     ]
   },
   {
     "title": "The Beatles",
     "slug": "5929a5efc0084474cd0c083b",
     "review": "Indulgent, sprawling, overflowing with ideas and excess, the White Album became not only a monument to unbridled creativity but a rock archetype.",
-    "artists": [
-      "The Beatles"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["The Beatles"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/13432-the-beatles/",
-    "photo": "covers/5929a5efc0084474cd0c083b.jpg",
+    "photo": "covers/5929a5efc0084474cd0c083b.webp",
     "year": 1968,
     "spotify": "spotify:album:1WMVvswNzB9i2UMh9svso5",
     "tracks": [
@@ -7775,50 +6172,22 @@
       }
     ],
     "palette": [
-      [
-        128,
-        127,
-        128
-      ],
-      [
-        67,
-        66,
-        67
-      ],
-      [
-        189,
-        188,
-        189
-      ],
-      [
-        148,
-        147,
-        148
-      ],
-      [
-        77,
-        76,
-        77
-      ],
-      [
-        191,
-        190,
-        191
-      ]
+      [128, 127, 128],
+      [67, 66, 67],
+      [189, 188, 189],
+      [148, 147, 148],
+      [77, 76, 77],
+      [191, 190, 191]
     ]
   },
   {
     "title": "Magical Mystery Tour",
     "slug": "5929a5f59d034d5c69bf340b",
     "review": "The only American release to become part of the Beatles' canon, Magical Mystery Tour combines a soundtrack EP and some brilliant singles.",
-    "artists": [
-      "The Beatles"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["The Beatles"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/13436-magical-mystery-tour/",
-    "photo": "covers/5929a5f59d034d5c69bf340b.jpg",
+    "photo": "covers/5929a5f59d034d5c69bf340b.webp",
     "year": 1967,
     "spotify": "spotify:album:2BtE7qm1qzM80p9vLSiXkj",
     "tracks": [
@@ -7901,50 +6270,22 @@
       }
     ],
     "palette": [
-      [
-        243,
-        188,
-        11
-      ],
-      [
-        141,
-        140,
-        30
-      ],
-      [
-        221,
-        178,
-        151
-      ],
-      [
-        130,
-        138,
-        102
-      ],
-      [
-        27,
-        43,
-        40
-      ],
-      [
-        208,
-        165,
-        186
-      ]
+      [243, 188, 11],
+      [141, 140, 30],
+      [221, 178, 151],
+      [130, 138, 102],
+      [27, 43, 40],
+      [208, 165, 186]
     ]
   },
   {
     "title": "Sgt. Pepper's Lonely Hearts Club Band",
     "slug": "5929a5f4c0084474cd0c0842",
     "review": "Though it has perhaps slipped in estimation since its initial issue, the 1967 release that defined the LP format still packs surprises.",
-    "artists": [
-      "The Beatles"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["The Beatles"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/13435-sgt-peppers-lonely-hearts-club-band/",
-    "photo": "covers/5929a5f4c0084474cd0c0842.jpg",
+    "photo": "covers/5929a5f4c0084474cd0c0842.webp",
     "year": 1967,
     "spotify": "spotify:album:6QaVfG1pHYl1z15ZxkvVDW",
     "tracks": [
@@ -8041,50 +6382,22 @@
       }
     ],
     "palette": [
-      [
-        48,
-        180,
-        232
-      ],
-      [
-        103,
-        20,
-        31
-      ],
-      [
-        123,
-        207,
-        250
-      ],
-      [
-        144,
-        110,
-        82
-      ],
-      [
-        73,
-        46,
-        39
-      ],
-      [
-        200,
-        172,
-        136
-      ]
+      [48, 180, 232],
+      [103, 20, 31],
+      [123, 207, 250],
+      [144, 110, 82],
+      [73, 46, 39],
+      [200, 172, 136]
     ]
   },
   {
     "title": "Revolver",
     "slug": "5929a5f29d034d5c69bf3407",
     "review": "As they devoted more time to the studio, the Beatles' individual voices and confidence continued to grow, resulting in the sonic landmark Revolver.",
-    "artists": [
-      "The Beatles"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["The Beatles"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/13434-revolver/",
-    "photo": "covers/5929a5f29d034d5c69bf3407.jpg",
+    "photo": "covers/5929a5f29d034d5c69bf3407.webp",
     "year": 1966,
     "spotify": "spotify:album:3PRoXYsngSwjEQWR5PsHWR",
     "tracks": [
@@ -8188,50 +6501,22 @@
       }
     ],
     "palette": [
-      [
-        128,
-        128,
-        128
-      ],
-      [
-        66,
-        66,
-        66
-      ],
-      [
-        189,
-        189,
-        189
-      ],
-      [
-        132,
-        132,
-        132
-      ],
-      [
-        68,
-        68,
-        68
-      ],
-      [
-        188,
-        188,
-        188
-      ]
+      [128, 128, 128],
+      [66, 66, 66],
+      [189, 189, 189],
+      [132, 132, 132],
+      [68, 68, 68],
+      [188, 188, 188]
     ]
   },
   {
     "title": "Rubber Soul",
     "slug": "5929a5f1b1335d7bf1698d03",
     "review": "The Beatles' first undisputed masterpiece is their quietest and most folky record, reflecting the influences of contemporaries like Dylan and the Byrds.",
-    "artists": [
-      "The Beatles"
-    ],
-    "labels": [
-      "EMI"
-    ],
+    "artists": ["The Beatles"],
+    "labels": ["EMI"],
     "url": "https://pitchfork.com/reviews/albums/13433-rubber-soul/",
-    "photo": "covers/5929a5f1b1335d7bf1698d03.jpg",
+    "photo": "covers/5929a5f1b1335d7bf1698d03.webp",
     "year": 1965,
     "spotify": "spotify:album:50o7kf2wLwVmOTVYJOTplm",
     "tracks": [
@@ -8335,50 +6620,22 @@
       }
     ],
     "palette": [
-      [
-        176,
-        69,
-        16
-      ],
-      [
-        116,
-        54,
-        12
-      ],
-      [
-        251,
-        221,
-        161
-      ],
-      [
-        172,
-        136,
-        83
-      ],
-      [
-        89,
-        74,
-        43
-      ],
-      [
-        175,
-        152,
-        120
-      ]
+      [176, 69, 16],
+      [116, 54, 12],
+      [251, 221, 161],
+      [172, 136, 83],
+      [89, 74, 43],
+      [175, 152, 120]
     ]
   },
   {
     "title": "Murmur [Deluxe Edition]",
     "slug": "5929be1ac0084474cd0c2e21",
     "review": "The legendary band reissues and remasters its debut, and still arguably best, album, adding a bonus disc that marks the first time a full R.E.M. show has been released on CD",
-    "artists": [
-      "R.E.M."
-    ],
-    "labels": [
-      "IRS"
-    ],
+    "artists": ["R.E.M."],
+    "labels": ["IRS"],
     "url": "https://pitchfork.com/reviews/albums/12464-murmur-deluxe-edition/",
-    "photo": "covers/5929be1ac0084474cd0c2e21.jpg",
+    "photo": "covers/5929be1ac0084474cd0c2e21.webp",
     "year": 1983,
     "spotify": "spotify:album:6N5Dxm9bMAsRah2tLX2AmK",
     "tracks": [
@@ -8580,51 +6837,22 @@
       }
     ],
     "palette": [
-      [
-        217,
-        178,
-        82
-      ],
-      [
-        109,
-        84,
-        24
-      ],
-      [
-        243,
-        242,
-        223
-      ],
-      [
-        116,
-        150,
-        174
-      ],
-      [
-        70,
-        62,
-        38
-      ],
-      [
-        204,
-        198,
-        191
-      ]
+      [217, 178, 82],
+      [109, 84, 24],
+      [243, 242, 223],
+      [116, 150, 174],
+      [70, 62, 38],
+      [204, 198, 191]
     ]
   },
   {
     "title": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
     "slug": "5929b592ea9e61561daa6e2a",
     "review": "Otis Blue: Otis Redding Sings Soul [Collector's Edition]",
-    "artists": [
-      "Otis Redding"
-    ],
-    "labels": [
-      "Rhino",
-      "Volt"
-    ],
+    "artists": ["Otis Redding"],
+    "labels": ["Rhino", "Volt"],
     "url": "https://pitchfork.com/reviews/albums/11376-otis-blue-otis-redding-sings-soul-collectors-edition/",
-    "photo": "covers/5929b592ea9e61561daa6e2a.jpg",
+    "photo": "covers/5929b592ea9e61561daa6e2a.webp",
     "year": 1965,
     "spotify": "spotify:album:68BCjMsHX4Gf11BJSkjwGz",
     "tracks": [
@@ -8910,50 +7138,22 @@
       }
     ],
     "palette": [
-      [
-        39,
-        150,
-        195
-      ],
-      [
-        46,
-        34,
-        11
-      ],
-      [
-        178,
-        212,
-        231
-      ],
-      [
-        182,
-        130,
-        103
-      ],
-      [
-        81,
-        63,
-        59
-      ],
-      [
-        176,
-        191,
-        207
-      ]
+      [39, 150, 195],
+      [46, 34, 11],
+      [178, 212, 231],
+      [182, 130, 103],
+      [81, 63, 59],
+      [176, 191, 207]
     ]
   },
   {
     "title": "Let It Be",
     "slug": "5929b5d5c0084474cd0c24b6",
     "review": "Sorry Ma, Forgot to Take Out the Trash / Stink / Hootenanny / Let It Be",
-    "artists": [
-      "The Replacements"
-    ],
-    "labels": [
-      "Rhino"
-    ],
+    "artists": ["The Replacements"],
+    "labels": ["Rhino"],
     "url": "https://pitchfork.com/reviews/albums/11676-sorry-ma-forgot-to-take-out-the-trash-stink-hootenanny-let-it-be/",
-    "photo": "covers/5929b5d5c0084474cd0c24b6.jpg",
+    "photo": "covers/5929b5d5c0084474cd0c24b6.webp",
     "year": 1984,
     "spotify": "spotify:album:4LwFCUyV4wM6SEg84PaLuL",
     "tracks": [
@@ -9078,50 +7278,22 @@
       }
     ],
     "palette": [
-      [
-        227,
-        58,
-        56
-      ],
-      [
-        22,
-        78,
-        100
-      ],
-      [
-        172,
-        212,
-        244
-      ],
-      [
-        90,
-        138,
-        165
-      ],
-      [
-        51,
-        78,
-        89
-      ],
-      [
-        161,
-        187,
-        210
-      ]
+      [227, 58, 56],
+      [22, 78, 100],
+      [172, 212, 244],
+      [90, 138, 165],
+      [51, 78, 89],
+      [161, 187, 210]
     ]
   },
   {
     "title": "Unknown Pleasures",
     "slug": "5929a186b1335d7bf16982a0",
     "review": "Tied to a film-related renewed interest in the band, Joy Division's three formative, formidable works get cleaned up and reissued in deluxe form.",
-    "artists": [
-      "Joy Division"
-    ],
-    "labels": [
-      "Factory"
-    ],
+    "artists": ["Joy Division"],
+    "labels": ["Factory"],
     "url": "https://pitchfork.com/reviews/albums/11624-unknown-pleasurescloserstill/",
-    "photo": "covers/5929a186b1335d7bf16982a0.jpg",
+    "photo": "covers/5929a186b1335d7bf16982a0.webp",
     "year": 1979,
     "spotify": "spotify:album:5Dgqy4bBg09Rdw7CQM545s",
     "tracks": [
@@ -9197,50 +7369,22 @@
       }
     ],
     "palette": [
-      [
-        196,
-        98,
-        59
-      ],
-      [
-        20,
-        10,
-        6
-      ],
-      [
-        224,
-        173,
-        153
-      ],
-      [
-        134,
-        129,
-        128
-      ],
-      [
-        63,
-        60,
-        59
-      ],
-      [
-        118,
-        59,
-        35
-      ]
+      [196, 98, 59],
+      [20, 10, 6],
+      [224, 173, 153],
+      [134, 129, 128],
+      [63, 60, 59],
+      [118, 59, 35]
     ]
   },
   {
     "title": "Daydream Nation: Deluxe Edition",
     "slug": "5929b0f7b1335d7bf169a1dc",
     "review": "A deluxe, remastered version of the indie rock classic, this original 1988 album was the first full articulation that the underground music of the Reagan era-- hardcore punk, high-art avant garde, quirky college rock, DIY, weirdo regional scenes-- was converging into a new, exciting Alternative Nation.",
-    "artists": [
-      "Sonic Youth"
-    ],
-    "labels": [
-      "Enigma"
-    ],
+    "artists": ["Sonic Youth"],
+    "labels": ["Enigma"],
     "url": "https://pitchfork.com/reviews/albums/10326-daydream-nation-deluxe-edition/",
-    "photo": "covers/5929b0f7b1335d7bf169a1dc.jpg",
+    "photo": "covers/5929b0f7b1335d7bf169a1dc.webp",
     "year": 1988,
     "spotify": "spotify:album:23O4F21GDWiGd33tFN3ZgI",
     "tracks": [
@@ -9484,50 +7628,22 @@
       }
     ],
     "palette": [
-      [
-        172,
-        132,
-        76
-      ],
-      [
-        4,
-        12,
-        10
-      ],
-      [
-        214,
-        193,
-        163
-      ],
-      [
-        181,
-        144,
-        88
-      ],
-      [
-        72,
-        76,
-        60
-      ],
-      [
-        210,
-        208,
-        203
-      ]
+      [172, 132, 76],
+      [4, 12, 10],
+      [214, 193, 163],
+      [181, 144, 88],
+      [72, 76, 60],
+      [210, 208, 203]
     ]
   },
   {
     "title": "Pink Flag",
     "slug": "5929aa599d034d5c69bf3e1e",
     "review": "Pink Flag / Chairs Missing / 154",
-    "artists": [
-      "Wire"
-    ],
-    "labels": [
-      "Harvest"
-    ],
+    "artists": ["Wire"],
+    "labels": ["Harvest"],
     "url": "https://pitchfork.com/reviews/albums/11866-pink-flag-chairs-missing-154/",
-    "photo": "covers/5929aa599d034d5c69bf3e1e.jpg",
+    "photo": "covers/5929aa599d034d5c69bf3e1e.webp",
     "year": 1977,
     "spotify": "spotify:album:4WXqZZ28geJSPtqLcCF56L",
     "tracks": [
@@ -9680,50 +7796,22 @@
       }
     ],
     "palette": [
-      [
-        123,
-        192,
-        220
-      ],
-      [
-        28,
-        83,
-        105
-      ],
-      [
-        136,
-        204,
-        227
-      ],
-      [
-        92,
-        140,
-        152
-      ],
-      [
-        77,
-        71,
-        61
-      ],
-      [
-        181,
-        208,
-        208
-      ]
+      [123, 192, 220],
+      [28, 83, 105],
+      [136, 204, 227],
+      [92, 140, 152],
+      [77, 71, 61],
+      [181, 208, 208]
     ]
   },
   {
     "title": "Born to Run: 30th Anniversary Edition",
     "slug": "5929a64dc0084474cd0c0921",
     "review": "Born to Run: 30th Anniversary Edition",
-    "artists": [
-      "Bruce Springsteen"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Bruce Springsteen"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/7728-born-to-run-30th-anniversary-edition/",
-    "photo": "covers/5929a64dc0084474cd0c0921.jpg",
+    "photo": "covers/5929a64dc0084474cd0c0921.webp",
     "year": 1975,
     "spotify": "spotify:album:43YIoHKSrEw2GJsWmhZIpu",
     "tracks": [
@@ -9785,50 +7873,22 @@
       }
     ],
     "palette": [
-      [
-        196,
-        74,
-        68
-      ],
-      [
-        142,
-        41,
-        35
-      ],
-      [
-        212,
-        114,
-        106
-      ],
-      [
-        143,
-        120,
-        113
-      ],
-      [
-        61,
-        56,
-        54
-      ],
-      [
-        199,
-        193,
-        191
-      ]
+      [196, 74, 68],
+      [142, 41, 35],
+      [212, 114, 106],
+      [143, 120, 113],
+      [61, 56, 54],
+      [199, 193, 191]
     ]
   },
   {
     "title": "In the Aeroplane Over the Sea",
     "slug": "5929c3d613d197565213be05",
     "review": "So, then, seven years later Domino reissues In the Aeroplane Over the Sea and the arguments can begin anew. I ...",
-    "artists": [
-      "Neutral Milk Hotel"
-    ],
-    "labels": [
-      "Merge"
-    ],
+    "artists": ["Neutral Milk Hotel"],
+    "labels": ["Merge"],
     "url": "https://pitchfork.com/reviews/albums/5758-in-the-aeroplane-over-the-sea/",
-    "photo": "covers/5929c3d613d197565213be05.jpg",
+    "photo": "covers/5929c3d613d197565213be05.webp",
     "year": 1998,
     "spotify": "spotify:album:0vVekV45lOaVKs6RZQQNob",
     "tracks": [
@@ -9911,50 +7971,22 @@
       }
     ],
     "palette": [
-      [
-        200,
-        129,
-        132
-      ],
-      [
-        92,
-        40,
-        42
-      ],
-      [
-        236,
-        213,
-        172
-      ],
-      [
-        144,
-        119,
-        117
-      ],
-      [
-        118,
-        106,
-        107
-      ],
-      [
-        212,
-        212,
-        179
-      ]
+      [200, 129, 132],
+      [92, 40, 42],
+      [236, 213, 172],
+      [144, 119, 117],
+      [118, 106, 107],
+      [212, 212, 179]
     ]
   },
   {
     "title": "Endtroducing... [Deluxe Edition]",
     "slug": "5929b9cb9d034d5c69bf52e1",
     "review": "Reissue of the pioneering instrumental hip-hop album adds a bonus disc of remixes and singles.",
-    "artists": [
-      "DJ Shadow"
-    ],
-    "labels": [
-      "Mo'Wax"
-    ],
+    "artists": ["DJ Shadow"],
+    "labels": ["Mo'Wax"],
     "url": "https://pitchfork.com/reviews/albums/2377-endtroducing-deluxe-edition/",
-    "photo": "covers/5929b9cb9d034d5c69bf52e1.jpg",
+    "photo": "covers/5929b9cb9d034d5c69bf52e1.webp",
     "year": 1996,
     "spotify": "spotify:album:4wvqGLk1HThPA0b5lzRK2l",
     "tracks": [
@@ -10072,48 +8104,20 @@
       }
     ],
     "palette": [
-      [
-        192,
-        124,
-        60
-      ],
-      [
-        96,
-        57,
-        25
-      ],
-      [
-        231,
-        218,
-        203
-      ],
-      [
-        158,
-        142,
-        104
-      ],
-      [
-        111,
-        97,
-        59
-      ],
-      [
-        204,
-        191,
-        173
-      ]
+      [192, 124, 60],
+      [96, 57, 25],
+      [231, 218, 203],
+      [158, 142, 104],
+      [111, 97, 59],
+      [204, 191, 173]
     ]
   },
   {
     "title": "Crooked Rain, Crooked Rain: LA's Desert Origins",
     "slug": "5929a015ea9e61561daa44b4",
     "review": "Pavement's Slanted & Enchanted: Luxe & Reduxe-- packed with top-quality extras at a low price-- was a near-perfect example of how to reissue an already beloved record. Matador now gives the same treatment to that album's equally classic 1994 follow-up. The result, Crooked Rain, Crooked Rain: LA's Desert Origins, is a two-disc remastered reissue, featuring 49 total tracks collecting B-sides, comp tracks and outtakes, including 25 unreleased recordings and 11 unheard tracks.",
-    "artists": [
-      "Pavement"
-    ],
-    "labels": [
-      "Matador"
-    ],
+    "artists": ["Pavement"],
+    "labels": ["Matador"],
     "url": "https://pitchfork.com/reviews/albums/6200-crooked-rain-crooked-rain-las-desert-origins/",
     "photo": "covers/5929a015ea9e61561daa44b4.gif",
     "year": 2004,
@@ -10464,48 +8468,20 @@
       }
     ],
     "palette": [
-      [
-        202,
-        104,
-        70
-      ],
-      [
-        103,
-        48,
-        30
-      ],
-      [
-        252,
-        236,
-        208
-      ],
-      [
-        165,
-        98,
-        76
-      ],
-      [
-        95,
-        88,
-        92
-      ],
-      [
-        209,
-        198,
-        178
-      ]
+      [194, 108, 70],
+      [100, 53, 33],
+      [252, 236, 213],
+      [165, 100, 79],
+      [103, 88, 88],
+      [206, 185, 174]
     ]
   },
   {
     "title": "London Calling: 25th Anniversary Legacy Edition",
     "slug": "5929a5e99d034d5c69bf33f1",
     "review": "A quarter-century on from its 1979 release, The Clash's London Calling remains one of punk's defining documents. Now it's been given its proper due from Epic, who today are releasing an expanded three-disc edition that covers the original LP, a set of 21 demos (including five previously unheard tracks), and a DVD containing The Last Testament, Clash documentarian Don Letts' film about the album's creation. And that's not even getting into the set's lavish fetishist packaging.",
-    "artists": [
-      "The Clash"
-    ],
-    "labels": [
-      "Epic"
-    ],
+    "artists": ["The Clash"],
+    "labels": ["Epic"],
     "url": "https://pitchfork.com/reviews/albums/1490-london-calling-25th-anniversary-legacy-edition/",
     "photo": "covers/5929a5e99d034d5c69bf33f1.gif",
     "year": 1979,
@@ -10646,50 +8622,22 @@
       }
     ],
     "palette": [
-      [
-        7,
-        162,
-        63
-      ],
-      [
-        5,
-        79,
-        31
-      ],
-      [
-        241,
-        176,
-        193
-      ],
-      [
-        140,
-        127,
-        116
-      ],
-      [
-        75,
-        72,
-        63
-      ],
-      [
-        200,
-        191,
-        186
-      ]
+      [14, 166, 69],
+      [15, 111, 46],
+      [235, 180, 192],
+      [88, 154, 104],
+      [74, 60, 56],
+      [175, 220, 189]
     ]
   },
   {
     "title": "Music Has the Right to Children",
     "slug": "5929a3329d034d5c69bf2d6d",
     "review": "Boards of Canada’s 1998 album is a beat-music touchstone, a record that took the previous decade of home-listening electronic music and essentially perfected it. This reissue offers a chance for a fresh look.",
-    "artists": [
-      "Boards of Canada"
-    ],
-    "labels": [
-      "Warp"
-    ],
+    "artists": ["Boards of Canada"],
+    "labels": ["Warp"],
     "url": "https://pitchfork.com/reviews/albums/838-music-has-the-right-to-children/",
-    "photo": "covers/5929a3329d034d5c69bf2d6d.jpg",
+    "photo": "covers/5929a3329d034d5c69bf2d6d.webp",
     "year": 1998,
     "spotify": "spotify:album:1vWnB0hYmluskQuzxwo25a",
     "tracks": [
@@ -10821,48 +8769,20 @@
       }
     ],
     "palette": [
-      [
-        69,
-        174,
-        161
-      ],
-      [
-        33,
-        101,
-        98
-      ],
-      [
-        153,
-        217,
-        228
-      ],
-      [
-        86,
-        169,
-        156
-      ],
-      [
-        51,
-        71,
-        95
-      ],
-      [
-        124,
-        196,
-        185
-      ]
+      [69, 174, 161],
+      [33, 101, 98],
+      [153, 217, 228],
+      [86, 169, 156],
+      [51, 71, 95],
+      [124, 196, 185]
     ]
   },
   {
     "title": "Live at the Apollo [Expanded Edition]",
     "slug": "5929a3c213d1975652138b6c",
     "review": "Syd Nathan never wanted this record made. The King Records founder had a long history of working with black performers ...",
-    "artists": [
-      "James Brown"
-    ],
-    "labels": [
-      "King"
-    ],
+    "artists": ["James Brown"],
+    "labels": ["King"],
     "url": "https://pitchfork.com/reviews/albums/976-live-at-the-apollo-expanded-edition/",
     "photo": "covers/5929a3c213d1975652138b6c.gif",
     "year": 1963,
@@ -10954,36 +8874,12 @@
       }
     ],
     "palette": [
-      [
-        229,
-        149,
-        19
-      ],
-      [
-        117,
-        112,
-        10
-      ],
-      [
-        243,
-        183,
-        87
-      ],
-      [
-        148,
-        106,
-        113
-      ],
-      [
-        73,
-        84,
-        59
-      ],
-      [
-        213,
-        220,
-        181
-      ]
+      [223, 152, 25],
+      [21, 66, 116],
+      [236, 178, 92],
+      [168, 138, 88],
+      [89, 82, 50],
+      [172, 188, 196]
     ]
   },
   {
@@ -10991,9 +8887,7 @@
     "slug": "5929a7d113d19756521394ea",
     "review": "\"At its best new wave/punk represents a fundamental and age-old Utopian dream: that if you give people\\n\\ the ...",
     "artists": [],
-    "labels": [
-      "Rhino"
-    ],
+    "labels": ["Rhino"],
     "url": "https://pitchfork.com/reviews/albums/1969-no-thanks-the-70s-punk-rebellion/",
     "photo": "covers/5929a7d113d19756521394ea.gif",
     "year": 2003,
@@ -11001,50 +8895,22 @@
       "length": 100
     },
     "palette": [
-      [
-        212,
-        52,
-        100
-      ],
-      [
-        154,
-        8,
-        58
-      ],
-      [
-        228,
-        203,
-        148
-      ],
-      [
-        161,
-        132,
-        92
-      ],
-      [
-        84,
-        68,
-        44
-      ],
-      [
-        204,
-        180,
-        140
-      ]
+      [196, 52, 92],
+      [154, 20, 60],
+      [236, 208, 158],
+      [168, 138, 100],
+      [84, 68, 44],
+      [196, 172, 132]
     ]
   },
   {
     "title": "Marquee Moon",
     "slug": "5929a86d9d034d5c69bf3a3c",
     "review": "",
-    "artists": [
-      "Television"
-    ],
-    "labels": [
-      "Elektra"
-    ],
+    "artists": ["Television"],
+    "labels": ["Elektra"],
     "url": "https://pitchfork.com/reviews/albums/11853-marquee-moon-adventure/",
-    "photo": "covers/5929a86d9d034d5c69bf3a3c.jpg",
+    "photo": "covers/5929a86d9d034d5c69bf3a3c.webp",
     "year": 1977,
     "spotify": "spotify:album:630o1rKTDsLeIPreOY1jqP",
     "tracks": [
@@ -11106,50 +8972,22 @@
       }
     ],
     "palette": [
-      [
-        80,
-        133,
-        169
-      ],
-      [
-        100,
-        68,
-        44
-      ],
-      [
-        134,
-        198,
-        236
-      ],
-      [
-        178,
-        139,
-        93
-      ],
-      [
-        52,
-        92,
-        92
-      ],
-      [
-        196,
-        182,
-        141
-      ]
+      [80, 133, 169],
+      [100, 68, 44],
+      [134, 198, 236],
+      [178, 139, 93],
+      [52, 92, 92],
+      [196, 182, 141]
     ]
   },
   {
     "title": "The Ascension",
     "slug": "5929a37c13d1975652138ad3",
     "review": "I was teaching the Dwight highschoolers how to drunk-drive when I first heard The Ascension. \"When\\n\\ the vision's ...",
-    "artists": [
-      "Glenn Branca"
-    ],
-    "labels": [
-      "Acute"
-    ],
+    "artists": ["Glenn Branca"],
+    "labels": ["Acute"],
     "url": "https://pitchfork.com/reviews/albums/909-the-ascension/",
-    "photo": "covers/5929a37c13d1975652138ad3.jpg",
+    "photo": "covers/5929a37c13d1975652138ad3.webp",
     "year": 2003,
     "spotify": "spotify:album:2cFixT6QIE4gzPjZS7sen7",
     "tracks": [
@@ -11190,50 +9028,22 @@
       }
     ],
     "palette": [
-      [
-        126,
-        126,
-        129
-      ],
-      [
-        65,
-        65,
-        67
-      ],
-      [
-        188,
-        188,
-        190
-      ],
-      [
-        132,
-        140,
-        140
-      ],
-      [
-        62,
-        63,
-        64
-      ],
-      [
-        188,
-        188,
-        190
-      ]
+      [126, 126, 129],
+      [65, 65, 67],
+      [188, 188, 190],
+      [132, 140, 140],
+      [62, 63, 64],
+      [188, 188, 190]
     ]
   },
   {
     "title": "English Settlement",
     "slug": "5929a8dcc0084474cd0c0f16",
     "review": "",
-    "artists": [
-      "XTC"
-    ],
-    "labels": [
-      "Virgin"
-    ],
+    "artists": ["XTC"],
+    "labels": ["Virgin"],
     "url": "https://pitchfork.com/reviews/albums/8833-go-2-black-sea-english-settlement/",
-    "photo": "covers/5929a8dcc0084474cd0c0f16.jpg",
+    "photo": "covers/5929a8dcc0084474cd0c0f16.webp",
     "year": 1982,
     "spotify": "spotify:album:2fDm6GpssR8S6uQnDE4MKM",
     "tracks": [
@@ -11344,48 +9154,20 @@
       }
     ],
     "palette": [
-      [
-        200,
-        237,
-        18
-      ],
-      [
-        44,
-        52,
-        4
-      ],
-      [
-        227,
-        246,
-        132
-      ],
-      [
-        132,
-        140,
-        120
-      ],
-      [
-        74,
-        76,
-        53
-      ],
-      [
-        197,
-        198,
-        184
-      ]
+      [200, 237, 18],
+      [44, 52, 4],
+      [227, 246, 132],
+      [132, 140, 120],
+      [74, 76, 53],
+      [197, 198, 184]
     ]
   },
   {
     "title": "This Year's Model",
     "slug": "5929a66c13d19756521391a1",
     "review": "This Year's Model",
-    "artists": [
-      "Elvis Costello & The Attractions"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Elvis Costello & The Attractions"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/1615-this-years-model/",
     "photo": "covers/5929a66c13d19756521391a1.gif",
     "year": 1978,
@@ -11484,50 +9266,22 @@
       }
     ],
     "palette": [
-      [
-        173,
-        100,
-        82
-      ],
-      [
-        76,
-        44,
-        36
-      ],
-      [
-        212,
-        174,
-        165
-      ],
-      [
-        124,
-        100,
-        68
-      ],
-      [
-        92,
-        75,
-        49
-      ],
-      [
-        176,
-        145,
-        137
-      ]
+      [116, 84, 55],
+      [77, 58, 36],
+      [212, 188, 165],
+      [124, 100, 68],
+      [92, 74, 49],
+      [175, 145, 136]
     ]
   },
   {
     "title": "Yankee Hotel Foxtrot",
     "slug": "5929aa315e6ef9596932154d",
     "review": "Myth, it has been said, is the buried part of every story. On April 23rd, Yankee Hotel Foxtrot finally emerges ...",
-    "artists": [
-      "Wilco"
-    ],
-    "labels": [
-      "Nonesuch"
-    ],
+    "artists": ["Wilco"],
+    "labels": ["Nonesuch"],
     "url": "https://pitchfork.com/reviews/albums/8676-yankee-hotel-foxtrot/",
-    "photo": "covers/5929aa315e6ef9596932154d.jpg",
+    "photo": "covers/5929aa315e6ef9596932154d.webp",
     "year": 2002,
     "spotify": "spotify:album:0rPtXOMN42nsLDiShvGamv",
     "tracks": [
@@ -11610,50 +9364,22 @@
       }
     ],
     "palette": [
-      [
-        204,
-        180,
-        148
-      ],
-      [
-        44,
-        36,
-        20
-      ],
-      [
-        212,
-        192,
-        165
-      ],
-      [
-        148,
-        132,
-        100
-      ],
-      [
-        76,
-        76,
-        58
-      ],
-      [
-        204,
-        188,
-        151
-      ]
+      [204, 180, 148],
+      [44, 36, 20],
+      [212, 192, 165],
+      [148, 132, 100],
+      [76, 76, 58],
+      [204, 188, 151]
     ]
   },
   {
     "title": "Source Tags and Codes",
     "slug": "5929a09113d19756521383fa",
     "review": "Some music begs to be explored. Promising fascination and intrigue beyond your wildest dreams, its distant melodies beckon you towards ...",
-    "artists": [
-      "...And You Will Know Us by the Trail of Dead"
-    ],
-    "labels": [
-      "Interscope"
-    ],
+    "artists": ["...And You Will Know Us by the Trail of Dead"],
+    "labels": ["Interscope"],
     "url": "https://pitchfork.com/reviews/albums/178-source-tags-and-codes/",
-    "photo": "covers/5929a09113d19756521383fa.jpg",
+    "photo": "covers/5929a09113d19756521383fa.webp",
     "year": 2002,
     "spotify": "spotify:album:5MoRknF2tJPoY0yM0sKmra",
     "tracks": [
@@ -11750,48 +9476,20 @@
       }
     ],
     "palette": [
-      [
-        252,
-        64,
-        4
-      ],
-      [
-        126,
-        39,
-        15
-      ],
-      [
-        252,
-        92,
-        52
-      ],
-      [
-        151,
-        38,
-        2
-      ],
-      [
-        137,
-        42,
-        16
-      ],
-      [
-        151,
-        32,
-        2
-      ]
+      [252, 64, 4],
+      [126, 39, 15],
+      [252, 92, 52],
+      [151, 38, 2],
+      [137, 42, 16],
+      [151, 32, 2]
     ]
   },
   {
     "title": "The Olatunji Concert: The Last Live Recording",
     "slug": "5929a628c0084474cd0c08c3",
     "review": "\"He not busy being born is busy dying.\"- Bob Dylan, \"It's Alright Ma, I'm Only Bleeding\"\"Live flesh ...",
-    "artists": [
-      "John Coltrane"
-    ],
-    "labels": [
-      "Impulse!"
-    ],
+    "artists": ["John Coltrane"],
+    "labels": ["Impulse!"],
     "url": "https://pitchfork.com/reviews/albums/1550-the-olatunji-concert-the-last-live-recording/",
     "photo": "covers/5929a628c0084474cd0c08c3.gif",
     "year": 2001,
@@ -11820,50 +9518,22 @@
       }
     ],
     "palette": [
-      [
-        234,
-        158,
-        25
-      ],
-      [
-        35,
-        4,
-        10
-      ],
-      [
-        236,
-        144,
-        152
-      ],
-      [
-        100,
-        171,
-        120
-      ],
-      [
-        86,
-        56,
-        41
-      ],
-      [
-        222,
-        180,
-        185
-      ]
+      [214, 137, 40],
+      [160, 21, 36],
+      [218, 172, 132],
+      [119, 175, 131],
+      [86, 54, 41],
+      [216, 164, 164]
     ]
   },
   {
     "title": "Kid A",
     "slug": "5929a1eb9d034d5c69bf2a84",
     "review": "I had never even seen a shooting star before. 25 years of rotations, passes through comets' paths, and travel, and ...",
-    "artists": [
-      "Radiohead"
-    ],
-    "labels": [
-      "Capitol"
-    ],
+    "artists": ["Radiohead"],
+    "labels": ["Capitol"],
     "url": "https://pitchfork.com/reviews/albums/6656-kid-a/",
-    "photo": "covers/5929a1eb9d034d5c69bf2a84.jpg",
+    "photo": "covers/5929a1eb9d034d5c69bf2a84.webp",
     "year": 2000,
     "spotify": "spotify:album:6GjwtEZcfenmOf6l18N7T7",
     "tracks": [
@@ -11946,48 +9616,20 @@
       }
     ],
     "palette": [
-      [
-        30,
-        101,
-        160
-      ],
-      [
-        39,
-        71,
-        108
-      ],
-      [
-        252,
-        251,
-        242
-      ],
-      [
-        103,
-        123,
-        143
-      ],
-      [
-        88,
-        52,
-        43
-      ],
-      [
-        174,
-        186,
-        192
-      ]
+      [30, 101, 160],
+      [39, 71, 108],
+      [252, 251, 242],
+      [103, 123, 143],
+      [88, 52, 43],
+      [174, 186, 192]
     ]
   },
   {
     "title": "Animals",
     "slug": "5929a1d79d034d5c69bf2a59",
     "review": "It begins somewhere for everyone. There's the first song that grabs your attention and seizes the imagination, the first ...",
-    "artists": [
-      "Pink Floyd"
-    ],
-    "labels": [
-      "Columbia"
-    ],
+    "artists": ["Pink Floyd"],
+    "labels": ["Columbia"],
     "url": "https://pitchfork.com/reviews/albums/6307-animals/",
     "photo": "covers/5929a1d79d034d5c69bf2a59.gif",
     "year": 1977,
@@ -12030,50 +9672,22 @@
       }
     ],
     "palette": [
-      [
-        246,
-        198,
-        94
-      ],
-      [
-        100,
-        76,
-        44
-      ],
-      [
-        247,
-        229,
-        101
-      ],
-      [
-        160,
-        150,
-        92
-      ],
-      [
-        78,
-        71,
-        54
-      ],
-      [
-        185,
-        188,
-        124
-      ]
+      [247, 200, 94],
+      [109, 68, 47],
+      [249, 236, 102],
+      [161, 151, 91],
+      [78, 72, 56],
+      [188, 191, 126]
     ]
   },
   {
     "title": "I See a Darkness",
     "slug": "5929a2a5ea9e61561daa4ac4",
     "review": "Music is a wounded, corrupted, vile, halfbreed mutt that begs for attention as it scratches at your door. You let ...",
-    "artists": [
-      "Bonnie “Prince” Billy"
-    ],
-    "labels": [
-      "Palace"
-    ],
+    "artists": ["Bonnie “Prince” Billy"],
+    "labels": ["Palace"],
     "url": "https://pitchfork.com/reviews/albums/699-i-see-a-darkness/",
-    "photo": "covers/5929a2a5ea9e61561daa4ac4.jpg",
+    "photo": "covers/5929a2a5ea9e61561daa4ac4.webp",
     "year": 1998,
     "spotify": "spotify:album:6jWSJeNdNX2pTZDWVnOzC9",
     "tracks": [
@@ -12156,36 +9770,12 @@
       }
     ],
     "palette": [
-      [
-        128,
-        128,
-        128
-      ],
-      [
-        66,
-        66,
-        66
-      ],
-      [
-        189,
-        189,
-        189
-      ],
-      [
-        130,
-        132,
-        132
-      ],
-      [
-        60,
-        68,
-        65
-      ],
-      [
-        157,
-        157,
-        157
-      ]
+      [128, 128, 128],
+      [66, 66, 66],
+      [189, 189, 189],
+      [130, 132, 132],
+      [60, 68, 65],
+      [157, 157, 157]
     ]
   }
 ]
