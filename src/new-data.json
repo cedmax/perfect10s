@@ -1,5 +1,236 @@
 [
   {
+    "title": "Juju Music",
+    "slug": "61ac937734f90bf312300124",
+    "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Nigerian superstar King Sunny Adé’s 1982 international breakthrough, an album whose complex fusion of musical traditions produced a singularly captivating groove.",
+    "artists": [
+      "King Sunny Adé"
+    ],
+    "labels": [
+      "Island"
+    ],
+    "url": "https://pitchfork.com/reviews/albums/king-sunny-ade-juju-music/",
+    "photo": "covers/61ac937734f90bf312300124.jpeg",
+    "year": 1982,
+    "spotify": "spotify:album:73Sm0AObUMEtnCu53o6QfX",
+    "tracks": [
+      {
+        "name": "Ja Funmi",
+        "popularity": 24,
+        "preview_url": null,
+        "track_number": 1,
+        "id": "4LidH8Kgu792vuq5avk2aL"
+      },
+      {
+        "name": "Eje Nlo Gba Ara Mi",
+        "popularity": 14,
+        "preview_url": null,
+        "track_number": 2,
+        "id": "7vK0lb5urSY2nbGDmUGNdo"
+      },
+      {
+        "name": "Mo Beru Agba",
+        "popularity": 13,
+        "preview_url": null,
+        "track_number": 3,
+        "id": "6tw8NmmKO0Y4OLu4JRm19s"
+      },
+      {
+        "name": "Sunny Ti De Ariya",
+        "popularity": 12,
+        "preview_url": null,
+        "track_number": 4,
+        "id": "7I6jfJwoGbrpMfBYzRDh3D"
+      },
+      {
+        "name": "Ma Jaiye Oni",
+        "popularity": 24,
+        "preview_url": null,
+        "track_number": 5,
+        "id": "7qhxKzKmIifYphGcPM5n3T"
+      },
+      {
+        "name": "365 Is My Number/ The Message",
+        "popularity": 10,
+        "preview_url": null,
+        "track_number": 6,
+        "id": "2bGXCTcJiw6k4z5G9Le9pD"
+      },
+      {
+        "name": "Samba/ E Falaba Lewe",
+        "popularity": 12,
+        "preview_url": null,
+        "track_number": 7,
+        "id": "65UxsnrROi8g4WfR6SUoqq"
+      }
+    ],
+    "palette": [
+      [
+        171,
+        59,
+        69
+      ],
+      [
+        145,
+        109,
+        49
+      ],
+      [
+        238,
+        226,
+        125
+      ],
+      [
+        180,
+        134,
+        106
+      ],
+      [
+        100,
+        91,
+        74
+      ],
+      [
+        199,
+        171,
+        159
+      ]
+    ]
+  },
+  {
+    "title": "Look-Ka Py Py",
+    "slug": "614251bec7be10985dbc6a23",
+    "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we revisit an inimitable album of New Orleans music, home to the deepest grooves and an enormous foundation for funk, rock, and rap.",
+    "artists": [
+      "The Meters"
+    ],
+    "labels": [
+      "Josie"
+    ],
+    "url": "https://pitchfork.com/reviews/albums/the-meters-look-ka-py-py/",
+    "photo": "covers/614251bec7be10985dbc6a23.jpeg",
+    "year": 1970,
+    "spotify": "spotify:album:6mGpQtwteyjKS4Up9tXuND",
+    "tracks": [
+      {
+        "name": "Look-Ka Py Py",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/b93532ad4e8604e02c1ca05400f64b6b1bfd0500?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 1,
+        "id": "5x9239aGsatbpoPHSbDXBv"
+      },
+      {
+        "name": "Rigor Mortis",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/9570c0467f31511d303c7cd4e1dbd3f1fbca4ad9?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 2,
+        "id": "1oLCmzqbIovI3MoNKlSufH"
+      },
+      {
+        "name": "Pungee",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/24f8f07769c2af44abe8f04e708a333b212406ac?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 3,
+        "id": "3uX7tvs6IgDrTEgzaKcR2c"
+      },
+      {
+        "name": "Thinking",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/9bcbfbb4ad4ad85cca983a3cc695d128545efc32?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 4,
+        "id": "1jzckxDDDDTnHhxChtoEDY"
+      },
+      {
+        "name": "This Is My Last Affair",
+        "popularity": 24,
+        "preview_url": "https://p.scdn.co/mp3-preview/da2372fae23a789c3a999706faabe7e190493a84?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 5,
+        "id": "7mhcJ0EScFteXu3aT2j0Wm"
+      },
+      {
+        "name": "Funky Miracle",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/8242c08f0e6645fd82748dbc19421f610ebec249?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 6,
+        "id": "6YBc1KPVqvhB8ugdC9Enkh"
+      },
+      {
+        "name": "Yeah You're Right",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/4e029e56a127fdccd08f3ef8a474ba5f0304e558?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 7,
+        "id": "09ngzZIROlPE7KL3LteGEW"
+      },
+      {
+        "name": "Little Old Money Maker",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/dff28ba00838905e68fba2adc52d2e80c90abd14?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 8,
+        "id": "2hHgXUYNStutg4iUgm9SP7"
+      },
+      {
+        "name": "Oh, Calcutta!",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/8e100d7f6b28f7c23616d161caf286fd77f37cfc?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 9,
+        "id": "2SJ5On3CJUop2H2uxTlovf"
+      },
+      {
+        "name": "The Mob",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/0257aa3c342f00e30704b11b7fc9dda8d3bf8cf9?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 10,
+        "id": "2q0Q3GrOm7oDF2DMj1wrp8"
+      },
+      {
+        "name": "9 'til 5",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/b8f99f88bfa2110ff8d5ada43cbe32aa37818ad3?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 11,
+        "id": "2X0vxaX6tU77UbSu20ONNj"
+      },
+      {
+        "name": "Dry Spell",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/686acc2743a9ed00603988cfed0b55691ea55a4c?cid=2de8edd3e5424748a18d6ff3a8256647",
+        "track_number": 12,
+        "id": "4QoBvj18bCUgI5yVY4jFb4"
+      }
+    ],
+    "palette": [
+      [
+        124,
+        196,
+        36
+      ],
+      [
+        111,
+        122,
+        53
+      ],
+      [
+        228,
+        191,
+        106
+      ],
+      [
+        163,
+        110,
+        86
+      ],
+      [
+        80,
+        70,
+        45
+      ],
+      [
+        226,
+        217,
+        194
+      ]
+    ]
+  },
+  {
     "title": "Born in the USA",
     "slug": "610d5f0a1caf2647247f822a",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we revisit a 1980s rock blockbuster: the bold, brilliant, and misunderstood apex of Bruce Springsteen’s imperial era.",

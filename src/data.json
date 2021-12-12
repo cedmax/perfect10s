@@ -1,5 +1,31 @@
 [
   {
+    "title": "Juju Music",
+    "slug": "61ac937734f90bf312300124",
+    "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Nigerian superstar King Sunny Adé’s 1982 international breakthrough, an album whose complex fusion of musical traditions produced a singularly captivating groove.",
+    "artists": [
+      "King Sunny Adé"
+    ],
+    "labels": [
+      "Island"
+    ],
+    "url": "https://pitchfork.com/reviews/albums/king-sunny-ade-juju-music/",
+    "photo": "covers/61ac937734f90bf312300124.jpeg"
+  },
+  {
+    "title": "Look-Ka Py Py",
+    "slug": "614251bec7be10985dbc6a23",
+    "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we revisit an inimitable album of New Orleans music, home to the deepest grooves and an enormous foundation for funk, rock, and rap.",
+    "artists": [
+      "The Meters"
+    ],
+    "labels": [
+      "Josie"
+    ],
+    "url": "https://pitchfork.com/reviews/albums/the-meters-look-ka-py-py/",
+    "photo": "covers/614251bec7be10985dbc6a23.jpeg"
+  },
+  {
     "title": "Born in the USA",
     "slug": "610d5f0a1caf2647247f822a",
     "review": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today we revisit a 1980s rock blockbuster: the bold, brilliant, and misunderstood apex of Bruce Springsteen’s imperial era.",
