@@ -9,7 +9,7 @@
     "react-spotify-web-playback": "^0.9.1"
   },
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "dotenv": "^10.0.0",
     "enquirer": "^2.3.6",
     "image-downloader": "^4.0.3",
