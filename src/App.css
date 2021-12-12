@@ -6,7 +6,7 @@ html, body {
 
 ul {
   text-shadow: 1px 1px 1px #333;
-  padding: 120px 0 0;
+  padding: 120px 0 50px;
   margin: 0;
   list-style: none;
   display: flex;
@@ -116,7 +116,7 @@ ul > li:after {
   padding-bottom: 160%;
 }
 
-ul > li:hover::before {
+ul > li:not(.disabled):hover::before {
   content: attr(data-year);
   display: block;
   font-size: 200%;
@@ -151,7 +151,7 @@ ul > li:hover::before {
   cursor: pointer;
 }
 
-ul > li:hover .tracks span {
+ul > li:not(.disabled):hover .tracks span {
   visibility: visible;
 }
 
@@ -257,7 +257,7 @@ ul > li:not(.playing) .img {
 	transition: left 0.5s;
 }
 
-ul > li:hover .lp {
+ul > li:not(.disabled):hover .lp {
 	left: 100px;
 }
 
@@ -335,7 +335,7 @@ header {
   background: linear-gradient(to top,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 80%) 60%);
   margin: 0;
   width: 100%;
-  height: 180px;
+  height: 200px;
   box-sizing: border-box;
   display: flex;
   justify-content: top;
@@ -419,3 +419,14 @@ ul > li:hover .play-button {
   border: none
 }
 
+.disabled::before {
+  top:0;left:0;right:0;bottom:0;
+  position: absolute;
+  content:'';
+  background: #444 url("data:image/svg+xml;utf8,<svg enable-background='new 0 0 177.055 177.055' viewBox='0 0 177.055 177.055' xmlns='http://www.w3.org/2000/svg'><path d='m.001 88.527c0 48.814 39.713 88.527 88.527 88.527 48.813 0 88.526-39.713 88.526-88.527s-39.713-88.527-88.526-88.527c-48.814 0-88.527 39.713-88.527 88.527zm88.527-64.223c35.413 0 64.224 28.811 64.224 64.224 0 13.324-4.081 25.712-11.055 35.983l-89.153-89.152c10.272-6.974 22.66-11.055 35.984-11.055zm35.983 117.392c-10.272 6.974-22.659 11.055-35.983 11.055-35.413 0-64.223-28.811-64.223-64.224 0-13.324 4.081-25.711 11.054-35.983z'/></svg>");
+  z-index: 10;
+  background-size: 60px;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: .8;
+}

@@ -20,7 +20,7 @@ export default ({ album, action, isPlaying }) => {
   }, [action, album.palette, album.spotify]);
 
   return (
-    <li className={`${isPlaying ? "playing" : ""}`} data-year={album.year}>
+    <li className={`${isPlaying ? "playing" : ""}${album.tracks[0] ? "" : " disabled"}`} data-year={album.year}>
       <Vinyl
         img={album.photo}
         title={album.title}
