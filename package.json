@@ -17,7 +17,7 @@
     "lint-staged": "^12.1.2",
     "node-vibrant": "^3.2.1-alpha.1",
     "prettier": "^2.5.1",
-    "sharp": "^0.29.3",
+    "sharp": "^0.30.5",
     "slugify": "^1.6.3",
     "spotify-web-api-node": "^5.0.2",
     "sync-disk-cache": "^2.1.0",
